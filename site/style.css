@@ -195,6 +195,26 @@ body {
 }
 .sidebar-footer a { color: var(--text-dim); text-decoration: none; }
 .sidebar-footer a:hover { color: var(--accent); }
+.sidebar-social {
+  display: flex; align-items: center; gap: 8px;
+  margin-top: 2px;
+}
+.sidebar-social a {
+  width: 28px; height: 28px;
+  display: flex; align-items: center; justify-content: center;
+  border-radius: 6px;
+  background: var(--surface-2);
+  color: var(--text-dim);
+  transition: background .15s, color .15s, transform .15s;
+}
+.sidebar-social a:hover {
+  background: var(--accent);
+  color: #fff;
+  transform: translateY(-1px);
+}
+.sidebar-social svg { display: block; }
+.sidebar-social a:hover svg rect { fill: transparent; }
+.sidebar-social a:hover svg path { fill: #fff; }
 
 /* ====== 主内容区 ====== */
 .content {

@@ -4,6 +4,16 @@
 
 ---
 
+## [2026-11-16] 侧栏底部：GitHub / Gitee 图标入口
+
+**模块**：`site/index.html`、`site/style.css`
+
+**变更简述**：把侧栏底部原来的文字链「GitHub ↗」改成两个 28×28 图标按钮，分别指向 `github.com/archilau0315/gh_guide` 与 `gitee.com/archilau/gh_guide`（国内镜像），带 `title`/`aria-label` 提示，hover 变主题色并上浮 1px。图标内联 SVG，不引外部资源，仍是零依赖。
+
+**备注**：Gitee 用红底(#C71D23) + 白色 G 字形近似官方标识；GitHub 用 16×16 官方 mark 路径。上方「官方文档 ↗」保留。
+
+---
+
 ## [2026-11-16] README 改版为 GitHub 风格
 
 **模块**：`readme.md`
