@@ -257,8 +257,11 @@
     const hasInputs = (c.inputs || []).length > 0;
     const hasOutputs = (c.outputs || []).length > 0;
     const examplesHtml = (c.examples && c.examples.length)
-      ? c.examples.map(ex => `<a href="${EXAMPLE_URL(ex)}" download>示例文件 ${ex} ↓</a>`).join(' · ')
+      ? c.examples.map(ex => `<a href="${EXAMPLE_URL(ex)}" download>下载 ${ex} ↓</a>`).join(' · ')
       : '<span class="modal-note">官方未提供示例文件</span>';
+    const exampleTip = (c.examples && c.examples.length)
+      ? '<div class="modal-tip">.ghz 下载后拖入 Rhino 9 视口即可打开（GH2 文件不注册双击关联）</div>'
+      : '';
 
     body.innerHTML = `
       <div class="modal-header">
@@ -273,6 +276,7 @@
             <a href="${c.url}" target="_blank">官方文档 ↗</a>
             ${examplesHtml}
           </div>
+          ${exampleTip}
         </div>
       </div>
 

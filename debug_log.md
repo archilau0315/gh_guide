@@ -4,6 +4,21 @@
 
 ---
 
+## [2026-11-16] 示例文件打开方式提示（.ghz 无系统关联）
+
+**模块**：`site/app.js`、`site/style.css`
+
+**问题**：用户装了 Rhino 9，但双击下载的 `.ghz` 报「该文件没有与之关联的应用」。核实注册表：`HKCR\.ghz` 不存在，`HKCR\grasshopper.document` 只有描述值、没有 `shell\open\command`——Rhino 9 本身不注册 `.ghz` 的双击关联，官方设计就是拖进视口打开。
+
+**变更简述**：
+1. 下载链文案由「示例文件 xxx.ghz ↓」改为「下载 xxx.ghz ↓」
+2. 链接下方新增灰字提示：`.ghz 下载后拖入 Rhino 9 视口即可打开（GH2 文件不注册双击关联）`
+3. 新增 `.modal-tip` 样式
+
+**备注**：不做 `.reg` 强制关联——`Rhino.exe "%1"` 能否直接载入 `.ghz` 未经实测，写错会把用户文件关联指向无效命令。拖拽是官方支持路径，稳定可靠。
+
+---
+
 ## [2026-11-16] 示例文件覆盖：58 → 121 组件
 
 **模块**：`tools/match-examples.js`（新增）、`data/components_full.json`、`site/app.js`、`site/style.css`
