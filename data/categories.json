@@ -1,0 +1,332 @@
+[
+  {
+    "name": "Curve",
+    "order": 0,
+    "sub": [
+      {
+        "name": "Analysis",
+        "order": 0
+      },
+      {
+        "name": "Conic",
+        "order": 1
+      },
+      {
+        "name": "Fragment",
+        "order": 2
+      },
+      {
+        "name": "Freeform",
+        "order": 3
+      },
+      {
+        "name": "Line",
+        "order": 4
+      },
+      {
+        "name": "Polygon",
+        "order": 5
+      }
+    ]
+  },
+  {
+    "name": "Data",
+    "order": 1,
+    "sub": [
+      {
+        "name": "Filter",
+        "order": 0
+      },
+      {
+        "name": "List",
+        "order": 1
+      },
+      {
+        "name": "Meta",
+        "order": 2
+      },
+      {
+        "name": "Metric",
+        "order": 3
+      },
+      {
+        "name": "Order",
+        "order": 4
+      },
+      {
+        "name": "Sets",
+        "order": 5
+      },
+      {
+        "name": "Tree",
+        "order": 6
+      }
+    ]
+  },
+  {
+    "name": "Display",
+    "order": 2,
+    "sub": [
+      {
+        "name": "Analysis",
+        "order": 0
+      },
+      {
+        "name": "Colour",
+        "order": 1
+      },
+      {
+        "name": "Gradient",
+        "order": 2
+      },
+      {
+        "name": "Scene",
+        "order": 3
+      },
+      {
+        "name": "Time",
+        "order": 4
+      },
+      {
+        "name": "View",
+        "order": 5
+      },
+      {
+        "name": "Visuals",
+        "order": 6
+      }
+    ]
+  },
+  {
+    "name": "Intersect",
+    "order": 3,
+    "sub": [
+      {
+        "name": "Intersection",
+        "order": 0
+      },
+      {
+        "name": "Operators",
+        "order": 1
+      },
+      {
+        "name": "Region",
+        "order": 2
+      },
+      {
+        "name": "Relation",
+        "order": 3
+      }
+    ]
+  },
+  {
+    "name": "Maths",
+    "order": 4,
+    "sub": [
+      {
+        "name": "Complex",
+        "order": 0
+      },
+      {
+        "name": "Function",
+        "order": 1
+      },
+      {
+        "name": "Operator",
+        "order": 2
+      },
+      {
+        "name": "Random",
+        "order": 3
+      },
+      {
+        "name": "Script",
+        "order": 4
+      },
+      {
+        "name": "Seq",
+        "order": 5
+      },
+      {
+        "name": "Special",
+        "order": 6
+      },
+      {
+        "name": "Statistics",
+        "order": 7
+      },
+      {
+        "name": "Trig",
+        "order": 8
+      }
+    ]
+  },
+  {
+    "name": "Mesh",
+    "order": 5,
+    "sub": [
+      {
+        "name": "Analysis",
+        "order": 0
+      },
+      {
+        "name": "Freeform",
+        "order": 1
+      },
+      {
+        "name": "Graph",
+        "order": 2
+      },
+      {
+        "name": "Modifiers",
+        "order": 3
+      },
+      {
+        "name": "Polytope",
+        "order": 4
+      },
+      {
+        "name": "Topology",
+        "order": 5
+      }
+    ]
+  },
+  {
+    "name": "Params",
+    "order": 6,
+    "sub": [
+      {
+        "name": "Data",
+        "order": 0
+      },
+      {
+        "name": "Geometric",
+        "order": 1
+      },
+      {
+        "name": "Input",
+        "order": 2
+      },
+      {
+        "name": "Numeric",
+        "order": 3
+      },
+      {
+        "name": "Util",
+        "order": 4
+      }
+    ]
+  },
+  {
+    "name": "Surface",
+    "order": 7,
+    "sub": [
+      {
+        "name": "Analysis",
+        "order": 0
+      },
+      {
+        "name": "Freeform",
+        "order": 1
+      },
+      {
+        "name": "Modifier",
+        "order": 2
+      },
+      {
+        "name": "Primitive",
+        "order": 3
+      },
+      {
+        "name": "SubD",
+        "order": 4
+      },
+      {
+        "name": "Topology",
+        "order": 5
+      }
+    ]
+  },
+  {
+    "name": "Text",
+    "order": 8,
+    "sub": [
+      {
+        "name": "Analysis",
+        "order": 0
+      },
+      {
+        "name": "Create",
+        "order": 1
+      },
+      {
+        "name": "Encoding",
+        "order": 2
+      },
+      {
+        "name": "Operators",
+        "order": 3
+      }
+    ]
+  },
+  {
+    "name": "Transform",
+    "order": 9,
+    "sub": [
+      {
+        "name": "Affine",
+        "order": 0
+      },
+      {
+        "name": "Analysis",
+        "order": 1
+      },
+      {
+        "name": "Exotic",
+        "order": 2
+      },
+      {
+        "name": "IJK",
+        "order": 3
+      },
+      {
+        "name": "Rigid",
+        "order": 4
+      },
+      {
+        "name": "Util",
+        "order": 5
+      }
+    ]
+  },
+  {
+    "name": "Vector",
+    "order": 10,
+    "sub": [
+      {
+        "name": "Field",
+        "order": 0
+      },
+      {
+        "name": "Interval",
+        "order": 1
+      },
+      {
+        "name": "Plane",
+        "order": 2
+      },
+      {
+        "name": "Point",
+        "order": 3
+      },
+      {
+        "name": "Spread",
+        "order": 4
+      },
+      {
+        "name": "Vector",
+        "order": 5
+      }
+    ]
+  }
+]

@@ -1,0 +1,15 @@
+{
+  "gh2Version": "Rhino 9.0.26300.09401",
+  "generatedAt": "2026-11-16T03:51:01.552Z",
+  "totalComponents": 1416,
+  "totalCategories": 11,
+  "totalTerms": 568,
+  "specCoverage": 58,
+  "specTotal": 58,
+  "componentsWithDeepArticle": 56,
+  "sources": {
+    "onlineIndex": "https://www.rhino3d.com/docs/grasshopper2/specs/",
+    "localSpecsDir": "C:\\Program Files\\Rhino 9\\Plug-ins\\Grasshopper2\\Documentation\\English\\Specs",
+    "localTermsDir": "C:\\Program Files\\Rhino 9\\Plug-ins\\Grasshopper2\\Documentation\\English\\Terms"
+  }
+}

@@ -1,0 +1,3978 @@
+[
+  {
+    "english": "3DM",
+    "definition": "A file type developed by [RMA] as a part of the [ON] initiative. It contains 3D model data such as shapes, 2D data such as page layouts, organisational data such as layers and named states, visualisation data such as materials and textures, and custom data associated with specific plug-ins or users. The 3DM file specification is open-source and free of any usage restrictions.",
+    "ipa": "θriː diː ɛm",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Absolute",
+    "definition": "A mathematical function which turns negative numbers into positive numbers of the same magnitude.",
+    "ipa": "ˈabsəluːt",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Accuracy",
+    "definition": "The number of decimal places to which a value can be trusted.",
+    "ipa": "ˈakjʊrəsi",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Active Objects",
+    "definition": "Objects in [GH] which have the inherent ability to affect a [GH] solution, e.g. components, parameters and sliders are active objects, while groups and scribbles are not.",
+    "ipa": "ˈaktɪv ˈɒbdʒɪkts",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Adjacency",
+    "definition": "See\\: Adjacent",
+    "ipa": "əˈdʒeɪ.sənt",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Adjacent#Geometry",
+    "definition": "In geometry, two elements are considered adjacent when the distance between their closest points falls below a tolerance limit.",
+    "ipa": "əˈdʒeɪ.sən.si",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Adjacent#Topology",
+    "definition": "In topology, two elements are considered adjacent when they share an edge. In some cases it makes sense to extend this concept to elements which share a vertex.",
+    "ipa": "əˈdʒeɪ.sən.si",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Affine Transformation",
+    "definition": "All transformations in which parallel lines remain parallel, even though the positions of or distances between individual lines may change.",
+    "ipa": "əˈfʌɪn ˌtransfəˈmeɪʃ(ə)n",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Agonic",
+    "definition": "Two lines are agonic if they are not parallel to each other, and do not intersect each other. Lines in flat 2D space are never agonic, because they are always either parallel or intersecting.",
+    "ipa": "eɪˈgɒn ɪk",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Airy",
+    "definition": "A family of functions in the field of harmonics, characterised by a transition from oscillatory to exponential behaviour.",
+    "ipa": "ˈɛːri",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Algorithm",
+    "definition": "An exact step by step procedure intended to solve a problem of a specific type. The steps of an algorithm may themselves contain other algorithms.",
+    "ipa": "ˈalɡərɪð(ə)m",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Alpha",
+    "definition": "An aspect of a digital colour denoting the colour's transparency. Technically this is a property of a material rather than that of a colour, but in computers alpha is often combined with the colour as that simplifies workflows. Hence the term _alpha_ is preferred to _transparency_ as it no longer represents a physical property.",
+    "ipa": "ˈalfə",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Amplitude",
+    "definition": "The magnitude or size of an object. In the case of waves it refers to the largest deviation from the average. With vectors or complex numbers it refers to the distance to the origin, i.e. length.",
+    "ipa": "ˈamplɪtjuːd",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Angle",
+    "definition": "A measure of difference between two directions. Angles can exist e.g. between intersecting lines, surfaces or trajectories. They can be measured in various metrics or units, of which [GH] provides the following\\: degrees, radians, grades, turns and spread.",
+    "ipa": "ˈaŋɡ(ə)l",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Angular",
+    "definition": "A type of distance metric showing the rotation angle required to go from the direction of point `A` to the direction of point `B` as measured from the origin. The respective Euclidean distances of points `A` and `B` to the origin are ignored.",
+    "ipa": "ˈaŋɡjʊlə",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Annotation#Grasshopper",
+    "definition": "In [GH], annotations are logically inert objects on the canvas which allow the user to place comments or markers onto the document. Examples of annotation objects include [Scribbles](spec\\://00000000-8a6e-46ef-8fbd-f7be5aaee57c), [Scratches](spec\\://00000000-4034-4701-8e2b-6c9c2bf32e0b) and [Groups](spec\\://00000000-a510-4750-84a8-2494cf1a3b17).",
+    "ipa": "ˌæn.əˈteɪ.ʃən",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Annotation#Rhino",
+    "definition": "In [RH], annotations are a category of objects used in drafting. These include dimensions, leaders, and text labels, and sometimes text dots depending on who you ask.",
+    "ipa": "ˌæn.əˈteɪ.ʃən",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Antiderivative",
+    "definition": "See _indefinite integral_.",
+    "ipa": "ˈantidɪˈrɪvətɪv",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Antiparallel",
+    "definition": "A property of two curves indicating that their tangents are pointing in opposite directions. Curves can be anti-parallel along their entire length, or at a specific pair of loci.",
+    "ipa": "ˈæn.ti pær.ə.lel",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Antipodal",
+    "definition": "Antipodal points are two points on the opposite sides of a shape. Points are antipodal, if two lines drawn parallel to each other, each going through one point, enclose the entire shape. In 3D spaces parallel planes are used instead of lines.",
+    "ipa": "anˈtɪpəd(ə)l",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Apollonian",
+    "definition": "Pertaining to Apollonius of Perga; an Apollonian circle is tangent to three given lines or circles. For even a small number of input curves, there are typically many possible Apollonian circles.",
+    "ipa": "ˌæp.əˈləʊ.ni.ən",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Application-Level",
+    "definition": "Settings whose scope covers the application as a whole, regardless of what document is currently loaded, or which objects are currently selected. This stands in contrast to document-level, or object-level settings.",
+    "ipa": "ˌæp.lɪˈkeɪ.ʃən lev.əl",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Arc",
+    "definition": "A part of a circle defined by a start angle and a sweep angle. The angles are measured anticlockwise from the x-axis of the circle's base plane.",
+    "ipa": "ɑːk",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Arccosecant",
+    "definition": "A trigonometric function which is the inverse of the cosecant function, in that it delivers an angle from a ratio.",
+    "ipa": "ˈɑːk.kəʊˌsiː.kənt",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Arccosine",
+    "definition": "A trigonometric function which is the inverse of the cosine function, in that it delivers an angle from a ratio.",
+    "ipa": "ˈɑːk.kəʊˌsaɪn",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Arccotangent",
+    "definition": "A trigonometric function which is the inverse of the cotangent function, in that it delivers an angle from a ratio.",
+    "ipa": "ˈɑːk.kəʊˌtæn.dʒənt",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Arcsecant",
+    "definition": "A trigonometric function which is the inverse of the secant function, in that it delivers an angle from a ratio.",
+    "ipa": "ˈɑːk.siː.kənt",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Arcsine",
+    "definition": "A trigonometric function which is the inverse of the sine function, in that it delivers an angle from a ratio.",
+    "ipa": "ˈɑːksʌɪn",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Arctangent",
+    "definition": "A trigonometric function which is the inverse of the tangent function, in that it delivers an angle from a ratio.",
+    "ipa": "ˈɑːktan(d)ʒ(ə)nt",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Arity",
+    "definition": "A property of a function which describes how many arguments it has.",
+    "ipa": "ˈparɪti",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Array#(1)CAD",
+    "definition": "In CAD, a shape copied multiple times. The copied shapes are typically arranged in a predetermined pattern.",
+    "ipa": "əˈreɪ",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Array#(2)Programming",
+    "definition": "In programming, an ordered collection of values, indexed using zero-based integers. Once an array is created, values can be replaced, but not added or removed.",
+    "ipa": "əˈreɪ",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Asynchronous",
+    "definition": "A property of algorithms, functions, or code indicating the computations involved are executed on a separate schedule from the code which triggered them. Code which starts an asynchronous process can continue with other subsequent work without having to wait for the original process to finish.",
+    "ipa": "eɪˈsɪŋ.krə.nəs",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Auxiliary",
+    "definition": "A state of the relevance property in which the object's data are displayed in an inconspicuous manner in the RH viewports. Auxiliary objects will be drawn in a faded shade on the canvas. Auxiliary status does not affect how the objects themselves function.",
+    "ipa": "ɔːɡˈzɪlɪəri",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "B-spline",
+    "definition": "A piecewise polynomial curve defined by control points and a knot vector. The B stands for basis, which refers to the basis-functions underlying the curve maths.",
+    "ipa": "biː splaɪn",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Backup#Save",
+    "definition": "Mechanism by which files are protected during file save actions. There are four backup mechanisms available in [GH] called `No Backup`, `Same Folder Backup`, `Child Folder Backup` and `Custom Folder Backup`.",
+    "ipa": "ˈbæk.ʌp",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Bag",
+    "definition": "In programming, an unsorted collection of values. Used almost exclusively in multithreaded algorithms.",
+    "ipa": "baɡ",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Bake",
+    "definition": "The act of transferring geometry from [GH] to [RH]. Once baked, geometry can no longer be changed through [GH], but can be used in all [RH] commands.",
+    "ipa": "beɪk",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Balanced#Threading",
+    "definition": "A [GH2] multithreading mode which attempts to strike a balance between performance and resource usage. This mode will aim to use half as many parallel processes as there are logical processors, meaning [GH] puts less pressure on the computer as a whole, thereby reducing heat build-up and battery usage.",
+    "ipa": "ˈbæl.ənst",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Barycentric",
+    "definition": "A coordinate system bound to a specific shape, which describes the location of points as a weighted sum of the corners of that shape.",
+    "ipa": "ˌbær.ɪˈsen.trɪk",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Bell Curve",
+    "definition": "See _Normal Distribution_.",
+    "ipa": "bɛl kəːv",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Bend",
+    "definition": "A type of deformation which maps from an initial finite line to a target finite arc.",
+    "ipa": "bend",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Bernoulli Distribution",
+    "definition": "The fundamental discrete distribution describing the likelihood of outcomes in a single game with two possible results. This distribution forms the basis for most other discrete distributions.",
+    "ipa": "bəːˈnuːi dɪstrɪˈbjuːʃ(ə)n",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Bessel",
+    "definition": "A mathematical function from the field of harmonics, important in many problems of wave propagation and static potential.",
+    "ipa": "ˈbɛs(ə)l",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Beta Distribution",
+    "definition": "A type of continuous distribution within the unit interval. The distribution can take on a wide variety of shapes.",
+    "ipa": "ˈbiːtə dɪstrɪˈbjuːʃ(ə)n",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Beta",
+    "definition": "A mathematical bivariate function related to the gamma function. Used to simplify complex integrals.",
+    "ipa": "ˈbiːtə",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Bi-arc",
+    "definition": "A type of curve consisting of two circular arc segments which are coincident and cotangent at their point of contact. Bi-arcs are defined by five independent constraints, which are two end points, two end tangents, and a number controlling the size ratio between the two arcs. In contrast, regular arcs are defined by only two end points and one tangent.",
+    "ipa": "baɪ ɑrk",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Bifurcation",
+    "definition": "In chaos theory, a qualitative change in the long-term behaviour of a chaotic system as a parameter crosses a critical value. For example, before the bifurcation threshold the system oscillates between three distinct states, and after the bifurcation it oscillates between five distinct states.",
+    "ipa": "ˌbaɪ.fəˈkeɪ.ʃən",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Binary#Arity",
+    "definition": "A function or operator of arity two, e.g. a multiplication or `max(a,b)`.",
+    "ipa": "ˈbʌɪnəri",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Binet",
+    "definition": "Named after Jacques Binet, the Binet formula is a closed form expression for the $n^{th}$ Fibonacci number. In the complex plane, it can be rewritten as a continuous function.",
+    "ipa": "",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Binomial Coefficient",
+    "definition": "An arithmetic operation commonly used in a wide range of statistical calculations.",
+    "ipa": "bʌɪˈnəʊmɪəl ˌkəʊɪˈfɪʃ(ə)nt",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Binomial Distribution",
+    "definition": "A type of discrete distribution designed to predict the number of wins in a series of independent games with an identical set up. E.g. when rolling a die ten times, the binomial distribution can be used to calculate the odds of rolling a six three times.",
+    "ipa": "bʌɪˈnəʊmɪəl dɪstrɪˈbjuːʃ(ə)n",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Bit Depth",
+    "definition": "The number of bits reserved for storing a specific thing in a computer's memory. E.g. the number of bits per pixel, number, or memory address.",
+    "ipa": "bɪt dɛpθ",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Blend",
+    "definition": "A smooth transition connecting two existing surfaces or curves.",
+    "ipa": "blend",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Boolean Operation",
+    "definition": "An operation which combines Boolean inputs and generates a Boolean result. Akin to arithmetic operations which operate on and generate numbers.",
+    "ipa": "ˈbuːlɪən ɒpəˈreɪʃ(ə)n",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Boolean",
+    "definition": "A value which can only be either `true` or `false`.",
+    "ipa": "ˈbuːlɪən",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Bounding",
+    "definition": "A property of a shape indicating it fully contains another shape. Usually, when shapes are classified as bounding shapes, it is implied that they are the smallest possible bounding shapes. I.e. a bounding rectangle is the smallest possible rectangle which fully encloses another shape.",
+    "ipa": "baʊndɪŋ",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Box",
+    "definition": "In [RH], a type of closed shape, defined by a base plane and three numeric intervals. The intervals specify the size of the box along the X, Y, and Z axes of the base plane.",
+    "ipa": "bɒks",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Branch",
+    "definition": "See\\: Twig",
+    "ipa": "brɑːntʃ",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Cage",
+    "definition": "A box-shaped lattice of control points for deforming geometry. In [GH2], cages are represented as single span NURBS volumes, and can thus be curved if the span degree equals 2 or higher.",
+    "ipa": "keɪdʒ",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Canberra",
+    "definition": "A type of distance metric. A weighted version of the Manhattan metric, where the points close to origin are given extra weight.",
+    "ipa": "ˈkanbərə",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Canvas",
+    "definition": "The workspace of the [GH] interface. When creating or viewing a [GH] file one always interacts with the parameters, components and wires on the canvas.",
+    "ipa": "ˈkanvəs",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Cap#Noun",
+    "definition": "A surface which closes a hole in another surface.",
+    "ipa": "kap",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Cap#Verb",
+    "definition": "The act of closing an open surface or mesh by inserting new faces to cover the holes.",
+    "ipa": "kap",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Catenary",
+    "definition": "A curve describing an idealised chain hanging freely under gravity from two fixed points.",
+    "ipa": "kəˈtiː.nər.i",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Catmull-Rom",
+    "definition": "A family of interpolating splines that pass exactly through a set of given control points.",
+    "ipa": "",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Cauchy Distribution",
+    "definition": "A type of continuous distribution modelling the outcomes of a normally distributed system, which has been subjected to homogeneous broadening. E.g. the shape of spectral lines, or the spread of points where a beam aimed in a random angle hits a wall.",
+    "ipa": "koʊˈʃi dɪstrɪˈbjuːʃ(ə)n",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Centroid",
+    "definition": "In geometry, the centre of a shape based on area or volume. When suspended or supported at the centroid, the shape in question would be perfectly balanced.",
+    "ipa": "ˈsen.trɔɪd",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Chain Function",
+    "definition": "A function consisting of a nested pair of functions. Given two functions, `f(x)` and `g(x)`, the resulting chain function could be either `f(g(x))` or `g(f(x))`.",
+    "ipa": "tʃeɪn ˈfʌŋ(k)ʃ(ə)n",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Chamfer",
+    "definition": "A straight transition between two surfaces or curves, which replaces a single sharp corner with a straight segment, thus creating two less sharp corners.",
+    "ipa": "ˈʃæm.fər",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Channel#Colour",
+    "definition": "A single number in a colour coordinate. Depending on the relevant colour space, channels may encode red, green, or blue values in the RGB model, or hue, saturation and luminance values in the HSL model.",
+    "ipa": "ˈtʃæn.əl",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Chebyshev",
+    "definition": "A type of distance metric between two points, defined as the greatest distance as measured along each spatial axis.",
+    "ipa": "ˈʃəbɪʃɛv",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Chi Distribution",
+    "definition": "A type of continuous distribution defined for positive arguments only, modelling the spread of random variables. It is related to chi-square distribution.",
+    "ipa": "kaɪ dɪstrɪˈbjuːʃ(ə)n",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Chi-Square Distribution",
+    "definition": "A type of continuous distribution defined for positive arguments only. Mostly used in statistical testing, e.g. to check whether observed counts match the expected ones.",
+    "ipa": "kaɪ skwɛːd dɪstrɪˈbjuːʃ(ə)n",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Chicken Integer",
+    "definition": "An integer counter attached to a loop or recursive process, designed to prevent the loop from repeating too many times. So named, because the programmer is too chicken to trust his own code and puts in a back stop.",
+    "ipa": "ˈtʃɪkɪn ɪntɪdʒə",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Child Folder Backup",
+    "definition": "A file saving backup mechanism where a GHZ file about to be overwritten by a newer version is timestamped and copied to a subfolder named 'Grasshopper Backups'.",
+    "ipa": "tʃaɪld ˈfəʊl.də ˈbæk.ʌp",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Chromaticity",
+    "definition": "A luma chroma model based on the CIE Yxy colour space. This is a popular model for specifying real world colour standards, such as those for traffic lights and warning signs.",
+    "ipa": "krəˈmatɪsɪti",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "CIE DeltaE 2000",
+    "definition": "A type of distance metric showing the distance between two colours. The official CIE standard, this metric is of high quality, but computationally intensive. Values of less than 0.5 signify differences not visible to the human eye, values between 0.5 and 1.0 signify colour differences visible under close scrutiny. Values between 1.0 and 50 indicate the colours are more similar than different, while values higher than 50 mean that the colours are more different than similar. The highest possible value is 100.",
+    "ipa": "siːʌɪˈi\\: ˈdɛltəˈi\\: tuː ˈθaʊz(ə)nd",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "CIE Lab",
+    "definition": "See _Lab_",
+    "ipa": "",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Circle",
+    "definition": "A curve connecting all the points in a plane which are the same distance from a centre point. In [RH] and [GH] circles consist of a radius value and a plane, which controls both the centre of the circle and its orientation in 3D space.",
+    "ipa": "ˈsəːk(ə)l",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Circular Array",
+    "definition": "In computing, a collection with a fixed maximum size. Any items inserted after this maximum size is reached will override the oldest elements in the collection.",
+    "ipa": "ˈsəːkjʊlə əˈreɪ",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Circular",
+    "definition": "The property of a curve, or part of a curve, indicating it is coincident with a perfect circle. In geometry, circular does not just mean something vaguely roundish, it is an exact concept. It may, however, involve tolerances.",
+    "ipa": "ˈsɜː.kjə.lər",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Circumscribed",
+    "definition": "A property of a shape indicating that it tightly encloses another shape.",
+    "ipa": "ˈsɜː.kəm.skraɪbd",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Clipping Field",
+    "definition": "In [GH] a clipping field constrains another field to a region in space, e.g. inside a box or above a plane. The field value will be zero anywhere outside this region boundary.",
+    "ipa": "ˈklɪpɪŋ fiːld",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Closed Curve",
+    "definition": "A curve whose start and end points are coincident. A special case of closed curves are periodic curves, which exhibit a high degree of continuity across their seams.",
+    "ipa": "kləʊzd kɜːv",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Closed Surface",
+    "definition": "A surface whose edges all border on exactly two faces. Surface closedness is a prerequisite for consistently determining whether a point is inside or outside a surface, as well as for meaningful volume computations.",
+    "ipa": "kləʊzd ˈsɜː.fɪs",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Closed#(1)Interval",
+    "definition": "An interval which includes its end values. E.g. an interval from 0 to 10, which includes the values 0 and 10 within itself. A closed interval is denoted with square brackets; `[0, 10]`. By default, all intervals are treated as closed in [RH] and [GH].",
+    "ipa": "kləʊzd ˈɪntəv(ə)l",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Closed#(2)Curve",
+    "definition": "A curve with coincident start and end points.",
+    "ipa": "kləʊzd kəːv",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Closed#(3)Surface",
+    "definition": "A surface in which every edge is adjacent to two faces.",
+    "ipa": "kləʊzd ˈsəːfɪs",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "CMY",
+    "definition": "A colour model predicated on the observation that pigments of various primary colours can be mixed together to approximate non-primary colours. The CMY model posits three primaries in the cyan, magenta and yellow parts of the spectrum, but leaves the specifics as a responsibility of whatever colour space implements the CMY model.",
+    "ipa": "'siːɛmwʌɪ",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "CMYK",
+    "definition": "An extension of the CMY colour model where cyan, magenta and yellow ink are partially replaced by a black ink, or key, resulting in significantly lower production costs as black ink is both cheaper and more efficient at creating greys.",
+    "ipa": "'siːɛmwʌɪkeɪ",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Coherent#Metadata",
+    "definition": "Coherent meta data is what is left over after all conflicting values within a collection of meta data are removed. Coherent meta data differs from normally merged meta data in that it omits all entries which have the same name, but differing values. A single instance of meta data is always coherent, as names must be unique.",
+    "ipa": "kəʊˈhɪə.rənt",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Coincident",
+    "definition": "In mathematics, two or more values which are equal within a tolerance.",
+    "ipa": "kəʊˈɪnsɪd(ə)nt",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Colinear",
+    "definition": "In mathematics, two or more shapes which are all coincident with the best fit line.",
+    "ipa": "ˌkōˈlinēər",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Collection",
+    "definition": "In programming, a general term used for a set of values grouped together. Note that a collection may be empty or only contain a single value.",
+    "ipa": "kəˈlɛkʃ(ə)n",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Colour Model",
+    "definition": "A conceptual approach for representing colours, for example mixing pigments or mixing coloured lights. Colour models tend not to include detailed mathematics. Colour models are usually associated with several colour spaces, which provide specific implementations of them. E.g. the RGB model serves as a basis for the sRGB, AdobeRGB and ProPhotoRGB spaces.",
+    "ipa": "ˈkʌlə ˈmɒd(ə)l",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Colour Space",
+    "definition": "A specific implementation of a colour model. Colour spaces overlay equations, constants and gamut constraints onto the basic approach provided by the underlying model. Many different spaces can be associated with a single model. Examples are sRGB, Adobe RGB and ProPhoto RGB, which are all based on the RGB model.",
+    "ipa": "ˈkʌlə speɪs",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Colour",
+    "definition": "One of the primitive data types available in [GH]. Starting with version 2.0, a colour is defined within one of several standard colour spaces such as `sRGB`, `HSL`, or `CieL*A*B*`. This allows for colour values outside the default `sRGB` gamut. Note that any individual colour is only defined within a single colour space.",
+    "ipa": "ˈkʌl.ər",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Compile Time",
+    "definition": "The stage in the creation of a computer program when the source code is being translated into code the computer can operate. This is done by a separate program called a compiler.",
+    "ipa": "kəmˈpʌɪl tʌɪm",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Component",
+    "definition": "[GH] object which computes new data from existing data. A typical component is a combination of _input_ parameters, _output_ parameters and a _central object_. In some rare cases components will lack inputs or outputs.",
+    "ipa": "kəmˈpəʊnənt",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Concave Hull",
+    "definition": "A non-convex polygon or polyhedron tightly enclosing a set of points, capturing indentations which a convex hull would bridge over.",
+    "ipa": "ˈkɒŋ.keɪv hʌl",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Concavity",
+    "definition": "The property of curving or denting inwards; the opposite of convexity.",
+    "ipa": "ˌkɒnˈkæv.ə.ti",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Concentric",
+    "definition": "In mathematics, two or more shapes whose centre points are coincident.",
+    "ipa": "kənˈsentrik",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Concise#Logging",
+    "definition": "The least detailed level of logging. Only warnings, errors, exceptions and commands are logged.",
+    "ipa": "kənˈsaɪs",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Concurrent",
+    "definition": "In programming, types of data, especially collections, which can be safely modified from multiple threads simultaneously.",
+    "ipa": "kənˈkʌr(ə)nt",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Conditional",
+    "definition": "In programming, an operation which is only performed under certain conditions. In textual programming conditionals take the form of _if_ and _switch_ statements. In [GH] they typically rely on the _sift-combine_ pattern.",
+    "ipa": "kənˈdɪʃ(ə)n(ə)ls",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Cone",
+    "definition": "In [RH], a shape defined by a base plane, a height and a radius. The tip of a cone is coincident with its base plane origin.",
+    "ipa": "koʊn",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Conic Section",
+    "definition": "A type of curve obtained by intersecting a double cone with a plane. All conic sections are either circles, ellipses, parabolas, or hyperbolas. Geometry with conic sections dates back to the ancient Greeks.",
+    "ipa": "ˈkɒn.ɪk ˈsek.ʃən",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Conjugate",
+    "definition": "A complex number vertically mirroring another complex number by negating its imaginary part. I.e. for any given complex number `a+bi`, the conjugate equals `a-bi`.",
+    "ipa": "ˈkɒn.dʒə.ɡət",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Continuity#(1)Mathematics",
+    "definition": "In mathematics, a quality of a function. A continuous function varies with no abrupt breaks or kinks.",
+    "ipa": "ˌkɒntɪˈnjuːɪti",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Continuity#(2)Geometry",
+    "definition": "In geometry, the property of a specific location on a shape, which describes the rate of change across that point. [RH] defines various types of continuity, e.g. position, tangency, and curvature.",
+    "ipa": "ˌkɒntɪˈnjuːɪti",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Continuous Distribution",
+    "definition": "A statistical distribution model, which predicts the distribution of smoothly varying properties, e.g. age, height or waiting time.",
+    "ipa": "kənˈtɪnjʊəs dɪstrɪˈbjuːʃ(ə)n",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Control Points",
+    "definition": "In CAD control points, or control vertices, are locations that define a specific shape. Shapes can be deformed by moving one or more control points. Primarily used for manual modelling in [RH].",
+    "ipa": "kənˈtrəʊl pɔɪnts",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Convex Hull",
+    "definition": "The smallest polygon or polytope which contains all the points in a given collection. In 2D a convex hull is a polyline connecting the outermost points, while in 3D it is a triangle mesh.",
+    "ipa": "ˈkɒn.veks hʌl",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Conway-Maxwell-Poisson Distribution",
+    "definition": "A type of discrete distribution, which is an extension of the Poisson distribution. The CMP distribution contains a second parameter which models the expected variation of occurrences.",
+    "ipa": "ˈkɑnweɪ ˈmakswɛl ˈpwɑːsɒn",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Coordinate",
+    "definition": "An ordered list of numbers which describe a location within a space using a specific coordinate system. Coordinates are most commonly defined in a Cartesian system, such as `(u,v)` and `(x,y,z)`, but [GH] also supports other systems such as polar, barycentric and Hilbert coordinates.",
+    "ipa": "kəʊˈɔː.dɪ.neɪt",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Coplanar",
+    "definition": "In mathematics, two or more shapes which are all coincident with the best fit plane.",
+    "ipa": "kōˈplānər, koʊˈpleɪnər",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Cosecant",
+    "definition": "A trigonometric function operating on angles in right-angled triangles. The cosecant of an angle equals the ratio of the hypotenuse to the opposite edge.",
+    "ipa": "kəʊˈsiːk(ə)nt",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Cosine",
+    "definition": "A trigonometric function operating on angles in right-angled triangles. The cosine of an angle equals the ratio of the adjacent edge to the hypotenuse.",
+    "ipa": "ˈkəʊsʌɪn",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Cotangent#Geometry",
+    "definition": "Shapes with shared tangent directions or planes at their point of contact are cotangent. Though note that often just the term _tangent_ is used in this case.",
+    "ipa": "kəʊˈtæn.dʒənt",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Cotangent#Trig",
+    "definition": "A trigonometric function operating on angles in right-angled triangles. The cotangent of an angle equals the ratio of the adjacent edge to the opposite edge.",
+    "ipa": "kəʊˈtandʒ(ə)nt",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Crease",
+    "definition": "A kink which appears in a surface.",
+    "ipa": "kriːs",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Cross Product",
+    "definition": "The multiplication of two vectors, which gives a third vector perpendicular to both input vectors as a result. Denoted using a cross symbol, e.g. $u \\\\times v=w$.",
+    "ipa": "krɒs ˈprɒdʌkt",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Crossing#Line",
+    "definition": "See 'Agonic'.",
+    "ipa": "ˈkrɒs.ɪŋ laɪn",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Cubic#Gradient",
+    "definition": "A type of colour interpolation used in colour gradients. The colour of any given gradient location is a combination of the colours of all the grips in the gradient. This interpolation yields a very smooth progression throughout the gradient, provided the interpolated colours do not overshoot the limits defined within the relevant colour space. For example, the cubic interpolation may produce extreme colours with more than 100% saturation or brightness. This will lead to discontinuities where these colours are pulled back to fit the colour space.",
+    "ipa": "ˈkjuːbɪk",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Culture",
+    "definition": "A specific language or language area, which may affect how things are expressed in computers. E.g. date and time formats, currencies, alphabetical order and decimal separators.",
+    "ipa": "ˈkʌltʃə",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Cumulative Distribution Function",
+    "definition": "Encodes the aggregate probability of a specific probability distribution. That is, the value of the cumulative distribution function $CDF(x)$ describes how likely it is that a randomly chosen value is smaller than or equal to a given $x$.",
+    "ipa": "ˈkjuːmjʊlətɪv dɪstrɪˈbjuːʃ(ə)n ˈfʌŋ(k)ʃ(ə)n",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Curvature",
+    "definition": "In geometry, the rate at which the direction of a curve changes at a given point. If the direction of the curve does not change at all, the curvature is zero. If the curve has a sharp kink, the local curvature is infinite.",
+    "ipa": "ˈkəːvətʃə",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Curve Locus",
+    "definition": "In [GH], a specific location on the interior of a curve. Loci expand the concept of a curve parameter by allowing points on a curve to be specified in four different ways\\:",
+    "ipa": "kəːv ˈləʊkəs",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Curve#(1)Mathematics",
+    "definition": "In mathematics, a curve is the set of all points that are valid solutions to a specific equation. This definition allows for infinite, fractal and disjointed curves. Mathematical curve equations may be both implicit and explicit.",
+    "ipa": "kəːv",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Curve#(2)CAD",
+    "definition": "In CAD, a finite one-dimensional object, which may be bent or kinked. Curves may be instances of primitive types such as lines, circles or polygons, or they may be free-form types such as polylines, beziers or NURBS.",
+    "ipa": "kɜːv",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Cusp",
+    "definition": "A type of kink on the interior of a spline. Cusps may cause problems, because they introduce discontinuities in unexpected and hard to detect places.",
+    "ipa": "kʌsp",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Custom Folder Backup",
+    "definition": "A file saving backup mechanism where a GHZ file about to be overwritten by a newer version is timestamped and copied to a custom folder anywhere on the computer as specified by the user.",
+    "ipa": "ˈkʌs.təm ˈfəʊl.dər ˈbæk.ʌp",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Cyclicality",
+    "definition": "An established relationship between an input and an output parameter within a looping cluster, which causes the output data to be copied into the input before the next iteration.",
+    "ipa": "ˌsaɪklɪˈkæləti",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Cylinder",
+    "definition": "In [RH], a shape defined by a base plane, a radius and a numeric interval. The numeric interval specifies the height of the shape and its elevation above the base plane.",
+    "ipa": "ˈsɪləndər",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Cylindrical",
+    "definition": "A coordinate system which describes the location of points using polar coordinates within a plane and an elevation coordinate in the direction perpendicular to that plane.",
+    "ipa": "sɪˈlɪn.drɪ.kəl",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Damerau",
+    "definition": "A type of distance metric showing the number of substitutions, deletions, insertions or transpositions required to make two texts identical. The default metric used for evaluating text differences in [GH], as it agrees with human intuition better than other text metrics available.",
+    "ipa": "",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Data Tree",
+    "definition": "The standard way in which values are stored inside [GH] parameters.",
+    "ipa": "ˈdeɪtə triː",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "de Boor",
+    "definition": "Named after Carl de Boor, de Boor's algorithm is an efficient and numerically stable way to evaluate NURBS geometry. It is less intuitive and photogenic than De Casteljau’s algorithm, but de Boor is the evaluator of choice for production grade code.",
+    "ipa": "",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "de Casteljau",
+    "definition": "Named after Paul de Casteljau, de Casteljau's algorithm evaluates a Bézier curve at a given parameter through repeated linear interpolation between control points.",
+    "ipa": "",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Debugging",
+    "definition": "The act of searching for mistakes in a set of computer instructions.",
+    "ipa": "diːˈbʌɡɪŋ",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Decreasing Interval",
+    "definition": "An interval where the end value is smaller than the start value. As the length of an interval is calculated by subtracting the start value from the end value, a decreasing interval has a negative length.",
+    "ipa": "dɪˈkriːsɪŋ ˈɪntəv(ə)l",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Definite Integral",
+    "definition": "The vertically unambiguous integral of a function.",
+    "ipa": "ˈdɛfɪnət ˈɪntɪɡr(ə)l",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Deform",
+    "definition": "See\\: Deformation",
+    "ipa": "dɪˈfɔːm",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Deformation",
+    "definition": "A change made to a shape, in which straight lines within the shape may be curved or bent, but not broken or cut.",
+    "ipa": "ˌdiːfɔːˈmeɪʃ(ə)n",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Degree#(1)Angle",
+    "definition": "In geometry, a unit of angle measurement. A full circle equals 360 degrees.",
+    "ipa": "dɪˈɡriː",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Degree#(2)Polynomial",
+    "definition": "In mathematics, the degree is the highest exponent in a polynomial. For example the degree of $2x^3 - 4x^2 + 2$ equals three. NURBS geometry is fundamentally built from polynomials, meaning the concept carries over.",
+    "ipa": "dɪˈɡriː",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Degree#(3)Nurbs",
+    "definition": "In NURBS geometry, degrees are used to classify the smoothness of a shape. A degree=1 curve is a polyline, degree=2 curves are used to represent conic sections such as ellipses and parabolas, while higher degrees are smoother still. The most common degrees are 1, 2, 3, and 5, but Rhino supports shapes with degrees up to 11.",
+    "ipa": "dɪˈɡriː",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Delaunay",
+    "definition": "Named after Boris Delaunay, a property of a triangulation indicating that all the triangle circumcircles are empty. I.e. none of the vertices in the triangulation may lie inside any of the circles surrounding the triangles.",
+    "ipa": "",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Derivative#(1)Mathematics",
+    "definition": "In mathematics, a derivative is a function which describes another function's rate of change. The derivative is sometimes referred to as the inverse of the integral. I.e. if `f` is the derivative of `g`, then `g` is the indefinite integral of `f`.",
+    "ipa": "dɪˈrɪvətɪv",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Derivative#(2)Geometry",
+    "definition": "In geometry, derivatives are used to calculate local shape characteristics of curves and surfaces, such as bending or orientation. The first derivative is used to calculate tangency. Calculating curvature requires both first and second derivatives. Higher order characteristics such as jerk and yank require higher order derivatives still.",
+    "ipa": "dɪˈrɪvətɪv",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Developable",
+    "definition": "A property of a surface, or part of a surface, indicating it can be unrolled onto a plane without any stretching or tearing, such as a cylinder, cone, or ruled surface.",
+    "ipa": "dɪˈveləpəbl",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Deviation#Geometry",
+    "definition": "In geometry, deviation is a measure of how different two shapes are. This computation usually involves adding up the distances between related points on both shapes.",
+    "ipa": "ˌdiː.viˈeɪ.ʃən",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Deviation#Statistics",
+    "definition": "In statistics, deviation is a measure of how spread out a distribution of values is. It can be computed both for collections of measurements, as well as for distribution functions.",
+    "ipa": "ˌdiː.viˈeɪ.ʃən",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Diameter",
+    "definition": "A measure of the side-to-side dimensions of a shape. Most specifically, the diameter of a circle equals exactly twice its radius.",
+    "ipa": "daɪˈæm.ɪ.tər",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Dictionary",
+    "definition": "In programming, an ordered collection of unique key-value pairs, where the key and value can be of any data type. The pairs are ordered according to the sorting order of the key values.",
+    "ipa": "ˈdɪkʃ(ə)n(ə)ri",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Digamma",
+    "definition": "A function defined as the logarithmic derivative of the gamma function. Due to the involvement of the logarithm, the digamma function tends to sidestep numerical issues that crop up with the gamma function due to its propensity to yield extremely large outputs for even modest inputs.",
+    "ipa": "daɪˈɡæmə",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Dilation",
+    "definition": "A geometric transformation in which an object is shrunk or enlarged in one or more directions. Also known as _scaling_.",
+    "ipa": "dʌɪˈleɪʃ(ə)n",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Disabled",
+    "definition": "A state of the status property in which an object does not respond to changes in inputs. When an object is disabled its output data is cleared. Disabling an object triggers a recalculation of all dependent objects.",
+    "ipa": "dɪsˈeɪbld",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Discontinuity",
+    "definition": "A point on a curve or surface where there is a break in the continuity of the position, the tangent, or one of the higher derivatives, such as curvature, jerk, or yank.",
+    "ipa": "ˌdɪs.kɒn.tɪˈnjuː.ə.ti",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Discrete Distribution",
+    "definition": "A statistical model, which predicts the distribution of properties varying in a disjointed manner, e.g. coin flips, dice throws or roulette wins.",
+    "ipa": "dɪˈskriːt dɪstrɪˈbjuːʃ(ə)n",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Discretisation",
+    "definition": "The process of converting continuous shapes or equations into their discrete equivalents. E.g. converting smooth curves into polylines or surfaces into meshes.",
+    "ipa": "dɪskriːtʌɪˈzeɪʃ(ə)n",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Distance Metric",
+    "definition": "A mathematical method for determining the difference between elements within a set, e.g. points, colours, or strings. The difference is typically expressed as a non-negative number. Negative distances are possible in certain cases; they are known as _signed distances_.",
+    "ipa": "ˈdɪst(ə)ns ˈmɛtrɪk",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Distance",
+    "definition": "A measure of the difference between two locations in space. Distances are typically represented in units, such as metres or inches, and measured using a specific metric, such as Euclidean or Manhattan. Unless otherwise specified, the metric is always assumed to be Euclidean.",
+    "ipa": "ˈdɪst(ə)ns",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Distribution#(1)Statistics",
+    "definition": "A mathematical model predicting a pattern of outcomes for a process with a random aspect. Distributions may be [continuous](term\\://ContinuousDistribution) or [discrete](term\\://DiscreteDistribution), depending on whether the process operates in decimal numbers or integers.",
+    "ipa": "dɪstrɪˈbjuːʃ(ə)n",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Document-level",
+    "definition": "Settings which are defined on a per-document basis. This stands in contrast to application-level, or object-level settings.",
+    "ipa": "ˈdɒk.jə.mənt lev.əl",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Domain#(1)Curve",
+    "definition": "In [RH], the interval of the curve parameters where the function describing the curve is defined. The parameter is the variable in the curve function. A curve domain running from zero to one is called a _normalised domain_.",
+    "ipa": "də(ʊ)ˈmeɪn",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Domain#(2)Surface",
+    "definition": "In [RH], the intervals of the surface parameters *u* and *v*, where the function describing the surface is defined. These parameters are the variables in the surface function. A surface domain running from zero to one in both *u* and *v* directions is called a _normalised domain_.",
+    "ipa": "də(ʊ)ˈmeɪn",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Dot Product",
+    "definition": "The multiplication of two vectors, which gives a number related to the angle between the vectors as a result. Denoted using a dot symbol, e.g. $u \\\\cdot v=w$.",
+    "ipa": "dɒt ˈprɒdʌkt",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Double Precision",
+    "definition": "A type of floating point number, which uses 64 bits in total. This is the most commonly used number type in CAD and manufacturing. When written in a decimal format, double precision floating point numbers have about 15 or 16 significant decimal places, but do note that this does not guarantee the same amount of accuracy.",
+    "ipa": "ˈdʌb(ə)l prɪˈsɪʒ(ə)n",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "e.g.",
+    "definition": "Exempli gratia, used to mean \"for example\".",
+    "ipa": "iːˈdʒiː",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "e",
+    "definition": "A mathematical constant, the base of the natural logarithm. Can only be approximated by computers. Roughly equal to `2.718282…`",
+    "ipa": "i",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Edge#Graph",
+    "definition": "In graph theory, an element representing a connection between two nodes within the graph. Edges can have optional meta data and can be classified both by structure, i.e. the nodes at either end, and by traffic, i.e. their direction and whether they are part of a circuit.",
+    "ipa": "ɛdʒ",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Edge",
+    "definition": "A curve which is a part of a larger geometrical shape.",
+    "ipa": "ɛdʒ",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Edit Time",
+    "definition": "The stage in the creation of a computer program when the source code is being written or edited.",
+    "ipa": "ˈɛdɪt tʌɪm",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Ellipse",
+    "definition": "A curve connecting all the points in a plane which are the same total distance from two focal points.",
+    "ipa": "ɪˈlɪps",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Enabled",
+    "definition": "A state of the Status property in which an object responds to changes in inputs. Enabling an object causes all the objects dependent on it to recalculate.",
+    "ipa": "ɪˈneɪb(ə)ld",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Enduring",
+    "definition": "A [GH] object property in which calculated data is kept after it has been passed on and until new data replaces it. This is the default behaviour of [GH] objects.",
+    "ipa": "ɪnˈdjʊərɪŋ",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Erf",
+    "definition": "In mathematics, the abbreviation for _error function_, which is the integral of a Gaussian bell-curve. This function is central to probability, statistics, and diffusion problems.",
+    "ipa": "ɜːf",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Erlang Distribution",
+    "definition": "A type of continuous distribution modelling queueing and waiting times.",
+    "ipa": "ˈɜːlæŋ dɪstrɪˈbjuːʃ(ə)n",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Error Metric",
+    "definition": "A way of computing the quality of a collection of measured deviations, or errors, compared to the ideal case. An error metric is expressed as a single number, which allows for comparison between deviations.",
+    "ipa": "ˈɛrə ˈmɛtrɪk",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Errors",
+    "definition": "In [GH], a category of feedback messages indicating a lack of result, either due to an irreparable user input, or an unhandled code failure. Objects with errors are colour-coded along their top edges.",
+    "ipa": "ˈɛrəz",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Euclidean#(1)Space",
+    "definition": "A fundamental space of classical geometry, defined by a lack of boundaries and a lack of curvature. I.e. Euclidean space is both infinite and flat. A good abstraction for almost all real world based situations. Unless specifically mentioned otherwise, any reference to a space assumes the space to be Euclidean. Non-Euclidean spaces include hyperbolic and elliptic spaces, as well as the space-time of Special Relativity.",
+    "ipa": "juːˈklɪdɪən",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Euclidean#(2)Metric",
+    "definition": "A type of distance metric identical to a distance between points when measured with a ruler. Calculated as the square root of the sum of the squared `x`, `y` and `z` differences between coordinates. This is the default distance metric in almost all cases involving distances between points.",
+    "ipa": "juːˈklɪdɪən",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Explicit",
+    "definition": "In mathematics, explicit equations describe shapes by mapping shape parameters to points in space. I.e. for any parameter within a given shape domain, the explicit equation yields the coordinate matching that parameter. This is in contrast to implicit equations, which describe whether points in space lie on a shape or not.",
+    "ipa": "ɪkˈsplɪs.ɪt",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Exponent",
+    "definition": "When raising a base number to a power, the exponent signifies the power to which the base number is raised to. E.g. in the case of $6^3$, 3 is the exponent.",
+    "ipa": "ɪkˈspəʊnənt",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Expression",
+    "definition": "In [GH], a section of code inserted into a file. Most [GH] parameters support expressions as a way of processing their data in custom ways.",
+    "ipa": "ɪkˈsprɛʃ(ə)n",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Extrapolation",
+    "definition": "Using known samples to estimate values beyond them.",
+    "ipa": "ɪkstrapəˈleɪʃ(ə)n",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Extrinsic Mean",
+    "definition": "A method for computing the average of a collection of angles. The 'extrinsic' refers to the fact that this method operates in the plane surrounding the circular space in which angles are defined. The extrinsic mean computes the average of all points on the circle implied by the angles, then projects the mean $\\\\bar{p} = \\\\frac{1}{n} \\\\sum_{i=1}^{n} p_i$ back onto the circle to yield the final average.",
+    "ipa": "",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Extrusion",
+    "definition": "In [RH] and [GH], a type of surface defined by a profile curve, a height and capping angles. A mathematically inelegant but in practice highly efficient way of defining a wide class of surface shapes.",
+    "ipa": "ɪkˈstruːʒ(ə)n",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Facet",
+    "definition": "A single polygon that is part of a mesh. In [RH] and [GH], facets may only be triangles or quadrilaterals. More complex regions are possible, but require that multiple facets be joined into a single n-gon.",
+    "ipa": "ˈfæs.ɪt",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Factorial",
+    "definition": "A mathematical function defined as the multiplication of a positive whole number by all smaller positive whole numbers. The mathematical notation of a factorial is an exclamation mark following a number or an expression. In general $n! = \\\\prod_{k=1}^{n} k$; i.e. $5! = 5 \\\\times 4 \\\\times 3 \\\\times 2 \\\\times 1$",
+    "ipa": "fakˈtɔːrɪəl",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "False Colours",
+    "definition": "See _Vertex Colours_.",
+    "ipa": "fɔls ˈkʌləs",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Fibonacci",
+    "definition": "Named after Leonardo Bonacci, the sequence of integers in which each term is the sum of the two preceding ones, starting with zero and one.",
+    "ipa": "",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Field#(1)Geometry",
+    "definition": "In geometry a field is an entity which associates a value with every point in space. The type of a field is related to the type of value provided by the field. One could e.g. have colour, temperature or wind fields. [GH] only provides scalar and vector fields, which work on numbers and vectors respectively.",
+    "ipa": "fiːld",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Fillet",
+    "definition": "A rounded transition between two curves or surfaces, typically formed by a circular arc, tangent to the adjacent shapes at both ends.",
+    "ipa": "",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Flatten",
+    "definition": "In Grasshopper, the act of taking all the values in all the twigs of a data tree and merging them into a single twig. For example, a tree containing two twigs with five items each, will become a new tree with a single twig containing ten items. Although this operation retains all the individual values, it does destroy much of the structural information and is therefore not reversible.",
+    "ipa": "ˈflat(ə)n",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Fleeting",
+    "definition": "A [GH] object property in which calculated data is discarded after it has been passed on. Reduces long-term memory usage, but does not lower peak memory usage.",
+    "ipa": "ˈtranzɪənt",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Floating Parameter",
+    "definition": "A data-containing object in [GH] which is not attached to a component. On the tool panels these are typically presented as black hexagons.",
+    "ipa": "ˈfləʊtɪŋ pəˈramɪtə",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Floating-point",
+    "definition": "The most common method for computers to deal with very small, very large or decimal numbers. Floating-point numbers rely on the same mechanism as scientific notation, in that a value with a fixed number of decimals is multiplied by a base raised to an exponent, e.g. $3.5 \\\\times 10^3$ or $1.02 \\\\times 2^8$.",
+    "ipa": "ˈfləʊtɪŋ pɔɪnt",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Focal Point",
+    "definition": "One of the distinguishing points for defining a conic section. The most common use of focal points is in the context of ellipse curves, where the sum of the distances from each point on the curve to both focal points is a constant.",
+    "ipa": "ˈfəʊ.kl pɔɪnt",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Folded Normal Distribution",
+    "definition": "A modification of the normal distribution, where all probabilities of negative outcomes are added to the probabilities of the equivalent positive outcomes. E.g. the probability of outcome 2.5 in the folded distribution equals the sum of the probabilities of outcomes 2.5 and -2.5 in the underlying normal distribution. The folded distribution is used when only the magnitude of values matters, but their sign does not.",
+    "ipa": "fəʊldɪd ˈnɔːm(ə)l dɪstrɪˈbjuːʃ(ə)n",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "For loop",
+    "definition": "A programming loop which repeats a pre-determined number of times.",
+    "ipa": "fɔː luːp",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "For-each Loop",
+    "definition": "A programming loop which repeats once for every element within a collection.",
+    "ipa": "fəriːtʃ luːp",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Frenet",
+    "definition": "Named after Jean Frédéric Frenet, the Frenet frame describes the local shape of the curve at a given point. This is done with a plane whose vectors are derived from the tangent, normal, and binormal vectors. When the curve is locally linear, the normal and binormal vectors are poorly defined, making the plane's orientation ambiguous.",
+    "ipa": "",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Frequency",
+    "definition": "A measure of how often something repeats within a given interval. For waves the frequency is the arithmetic inverse of wavelength.",
+    "ipa": "ˈfriːkw(ə)nsi",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Fréchet",
+    "definition": "Named after Maurice Fréchet, the Fréchet distance measures the similarity between two curves, taking into account their directions and velocities. I.e., two curves which look fully identical may nevertheless have a large Fréchet distance if they travel in opposite directions.",
+    "ipa": "",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Function#Mathematics",
+    "definition": "In mathematics a function is usually defined as a relationship—also called a map—between input and output variables. Mathematical functions can be univariate or multivariate and operate on, or yield values of many different types, not just numbers.",
+    "ipa": "ˈfʌŋk.ʃən",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Function#Programming",
+    "definition": "In programming, a function is a block of interrelated instructions which perform a well-defined action or calculation. Typically one cannot see the code inside a function, which is why they are often referred to as _black boxes_.",
+    "ipa": "ˈfʌŋk.ʃən",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Function#Type",
+    "definition": "In [GH], a function is a conversion from input numbers, usually called `x`, to output numbers, often called `y`. Functions in [GH] are strictly univariate and only operate on numbers. Examples of common functions are [sine](term\\://sin), [absolute](term\\://abs), and polynomials, but there are many different kinds available in [GH].",
+    "ipa": "ˈfʌŋk.ʃən",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Gamma Distribution",
+    "definition": "A type of continuous distribution for positive numbers, which can take on a wide variety of shapes. It is a generalisation of the exponential, [Erland](term\\://ErlangDistribution), and [Chi-square](term\\://ChisquareDistribution) [distributions](term\\://ContinuousDistribution).",
+    "ipa": "ˈɡamə dɪstrɪˈbjuːʃ(ə)n",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Gamma",
+    "definition": "A mathematical function, which extends the factorial to all numbers, including the negative and positive decimal numbers. The gamma function is horizontally shifted by one unit compared to the factorial, so `Γ(n)` is equal to `(n-1)!`.",
+    "ipa": "ˈɡamə",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Gamut",
+    "definition": "The collection of all possible colours within a colour space. For continuous spaces the gamut describes the outer limits of the colour space, while for discrete spaces it also includes the distribution of colours within the limits.",
+    "ipa": "ˈɡamət",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Gaussian Distribution",
+    "definition": "See _Normal Distribution_.",
+    "ipa": "ˈɡaʊsiən dɪstrɪˈbjuːʃ(ə)n",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Gaussian#Gradient",
+    "definition": "A type of colour interpolation used in colour gradients. The colour of any given gradient location is a combination of all grip colours, weighted by the distance to each grip. The closer the grip, the more effect its colour has. This effect diminishes as the distance from the grip increases, following the Gaussian bell curve. The weight of a grip at distance $d$ is $w = e^{-\\\\left(\\\\frac{d}{r}\\\\right)^2}$.",
+    "ipa": "'ɡaʊsɪən",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "GCD",
+    "definition": "See Greatest Common Divisor.",
+    "ipa": "",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Geodesic",
+    "definition": "The shortest curve connecting two points. In a flat space or along a planar surface, geodesics are lines. Within curved spaces or along curved surfaces, geodesics may be curved.",
+    "ipa": "ˌdʒiː.əˈdes.ɪk",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Geometric Distribution",
+    "definition": "A type of discrete distribution over positive whole numbers modelling the number of times one needs to play a game to achieve one win, given the likelihood of a victory per one game.",
+    "ipa": "ˌdʒɪəˈmɛtrɪk dɪstrɪˈbjuːʃ(ə)n",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "GH",
+    "definition": "A binary format associated with [GH] 1.0 for storing [GH] documents. Files in this format store the components used, their placement and their connections.",
+    "ipa": "dʒiː eɪtʃ",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "GHA",
+    "definition": "A [.NET] compliant assembly containing [GH] 1.0 plug-ins. [GH] 2.0 no longer uses the GHA file format, instead relying on the RHP format, just as [RH].",
+    "ipa": "dʒiː eɪtʃ eɪ",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "GHX",
+    "definition": "An XML format associated with [GH] 1.0 for storing [GH] documents. Files in this format store the components used, their placement and their connections. Due to the text-based nature of XML, GHX files are much bigger in size than GH files, despite storing the exact same data.",
+    "ipa": "dʒiː eɪtʃ ɛks",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "GIF",
+    "definition": "An animation file format developed specifically for the early web. Its colour depth and frame rate specifications are very limited compared to newer video formats, but it is uniquely compatible with many programs due to its age.",
+    "ipa": "",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Glossary",
+    "definition": "A collection of terms along with their definitions. Entries often include additional information, such as word class or pronunciation guidelines.",
+    "ipa": "ˈɡlɒs.r.i",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Gompertz Distribution",
+    "definition": "A type of continuous distribution modelling adult lifetime expectancy. This distribution is often used in demographics and actuarial studies.",
+    "ipa": "ˈgɒmpəːts dɪstrɪˈbjuːʃ(ə)n",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Grade",
+    "definition": "In geography, a unit of angle measurement used to indicate the steepness of a slope.  The grade of a slope is defined as the travelled vertical distance divided by the travelled forward distance, with the result multiplied by one hundred, i.e. $\\\\text{grade} = \\\\frac{\\\\Delta y}{\\\\Delta x} \\\\times 100\\\\%$. This result is then shown as a percentage. Also known by the shorthand expression 'rise over run'. A 100% grade indicates a slope with a 45 degree angle, while a vertical slope has an infinite grade. Unlike with degrees and radians, simple addition can not be used to add two grade values together.",
+    "ipa": "ɡreɪd",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Gradient",
+    "definition": "In [GH], a one-dimensional colour progression controlled by grips and an interpolation scheme. The grips specify the colours of the gradient at their positions and the interpolation determines how the colours are computed between the grips. Available interpolation schemes include—but are not limited to—linear, smooth and cubic.",
+    "ipa": "ˈɡreɪdɪənt",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Graft",
+    "definition": "In Grasshopper, the act of taking all the values in all the twigs of a data tree and putting them all into separate lists. For example a tree containing two twigs with five items each, will become a new tree with ten twigs of one item each. This operation retains all individual values and adds a layer of structural information to a tree. Due to this, grafting is a reversible operation.",
+    "ipa": "ɡrɑːft",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Graph",
+    "definition": "A network represented by a collection of nodes connected by edges. [GH] graphs are spatial objects and each node must therefore have a location in space. Edges always connect two different nodes, and a single graph may contain both one-way and two-way edges. One-way edges only allow travel from the start node to the end node, two-way edges allow travel in both directions.",
+    "ipa": "ɡrɑːf",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Great Circle",
+    "definition": "The circle on the surface of a sphere, whose centre point is coincident with the sphere's centre point. A great circle is typically used to find the shortest path between two points on a sphere. The equator and all meridians are examples of great circles on the surface of the Earth.",
+    "ipa": "greɪt ˈsɜː.kəl",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Greatest Common Divisor",
+    "definition": "In integer arithmetic, the Greatest Common Divisor of two values `A` and `B` is the biggest number which can divide both `A` and `B` without remainder.",
+    "ipa": "",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Greville Point",
+    "definition": "The parameters associated with control points of a NURBS curve or surface, with one Greville point for each control point. In [RH], Greville points manifest as edit points. An alternative name for Greville points is Greville abscissae.",
+    "ipa": "",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Grip#Gradient",
+    "definition": "In colour gradients, grips control the colour in specific locations. A grip is defined by a number indicating its position, an incoming colour and an outgoing colour. Grips manifest as draggable circles in the gradient editor.",
+    "ipa": "ɡrɪp",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Half-closed Interval",
+    "definition": "An interval which includes only one of its two end values. E.g. an interval from 0 to 10, which includes 0, but excludes 10. The closed end of a half-closed interval is denoted with a square bracket, whilst the open end  is denoted with a round bracket, e.g. `[0, 10)`.",
+    "ipa": "ˈəʊp(ə)n ˈɪntəv(ə)l",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Half-Space",
+    "definition": "The portions of an infinite space after it is sliced by a line or a plane into two non-overlapping, but still individually infinite pieces.",
+    "ipa": "hɑːf speɪs",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Hamming",
+    "definition": "A type of distance metric which counts the number of differences between two values, $d(a,b) = \\\\sum_{i=1}^{n} \\\\left[ a_i \\\\ne b_i \\\\right]$. This metric is always expressed as an integer.",
+    "ipa": "hamiŋ",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Handedness",
+    "definition": "A property of a coordinate system, describing the orientation of perpendicular axes.",
+    "ipa": "ˈhandɪdnəs",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Hankel",
+    "definition": "A complex function in the field of harmonics, applicable to vibrating membranes.",
+    "ipa": "'hank(ə)l",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Hashset",
+    "definition": "In programming, an unordered collection of unique values. Hashsets are primarily used for very fast value collision detection, since performance does not degrade as the set grows to contain more and more values.",
+    "ipa": "haʃsɛt",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Hausdorff",
+    "definition": "Named after Felix Hausdorff, a distance metric between shapes, defined as the largest possible distance from any point on shape `A` to its nearest counterpart on shape `B`.",
+    "ipa": "",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "HDR",
+    "definition": "A property of colour spaces. A colour in a High Dynamic Range space can have a wide variety of brightness values. This usually translates to the ability to encode both a large variety of very dark, yet distinct shades, as well as very bright, yet non-white colours.",
+    "ipa": "'eɪtʃ diː ɑː",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Heaviside",
+    "definition": "Named after Oliver Heaviside, the heaviside step function returns zero for negative inputs and one for non-negative inputs, with a sharp transition at zero.",
+    "ipa": "",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Helix",
+    "definition": "A three-dimensional curve which advances along an axis while rotating about it at a constant rate. Usually the axis is assumed to be linear, but this is not a requirement.",
+    "ipa": "ˈhiː.lɪks",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Hesse Normal",
+    "definition": "Named after Otto Hesse, a description of infinite lines or planes, defined by a unit normal vector and the signed distance between the world origin and the nearest point on the line or plane.",
+    "ipa": "",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Hidden",
+    "definition": "A state of the Display property in which the data in a [GH] object is not shown in the RH viewports. Hidden objects will be drawn in a dim shade on the [GH] canvas.",
+    "ipa": "ˈhɪdn",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "HS Lightness#(1)Metric",
+    "definition": "A type of distance metric showing the distance between two colours in the HSL cylinder. This is a woefully inadequate distance metric as it heavily exaggerates differences between dark colours.",
+    "ipa": "eɪtʃ ɛs ˈlʌɪtnəs",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "HS Luminance#(1)Metric",
+    "definition": "A type of distance metric showing the distance between two colours in the H*SP cylinder. This is a slight improvement over the HSV and HSL metrics.",
+    "ipa": "eɪtʃ ɛs ˈluːmɪn(ə)ns",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "HS Value#(1)Metric",
+    "definition": "A type of distance metric showing the distance between two colours in the HSV cylinder. This is a woefully inadequate distance metric as it heavily exaggerates differences between dark colours.",
+    "ipa": "eɪtʃ ɛs ˈvaljuː",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "HSB",
+    "definition": "See _HSV_.",
+    "ipa": "'eɪtʃɛsbiː",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "HSL",
+    "definition": "An implementation of the hue-saturation colour model in which the luminance is defined as the average of the highest and lowest RGB values. This approach takes more properties of the underlying colour into account than the HSV space, but by no means provides a perceptually constant luminance cross section for any given value. That is, blue hues tend to look much darker than yellow hues despite having the same L value.",
+    "ipa": "'eɪtʃɛsɛl",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "HSP",
+    "definition": "An implementation of the hue-saturation colour model, which relies on a more advanced metric for luminance. This colour space was developed specially for Grasshopper with the goal of combining the intuitive aspects of hue-saturation models with the axis-independency of luma-chroma models.",
+    "ipa": "'eɪtʃɛspiː",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "HSV",
+    "definition": "An implementation of the hue-saturation colour model, in which the luminance is defined as the highest of the three RGB values. In this scheme pure primary and secondary colours such as blue, magenta, yellow and red are all considered to have the same brightness as white. Despite this naive approach to luminance, the HSV colour space is a popular space in colour pickers, as it separates colour properties in a way which most humans find intuitive.",
+    "ipa": "'eɪtʃɛsviː",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Hue-Saturation Model",
+    "definition": "A transformation of the RGB colour model in which the axes no longer represent the brightness of primary colours, but instead track the more human centric qualities of _hue, saturation_ and _lightness_. There are various different colour spaces associated with this model; they mostly differ in their treatment of the lightness aspect.",
+    "ipa": "hjuː satʃəˈreɪʃ(ə)n ˈmɒd(ə)l",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Hue",
+    "definition": "The intrinsic tint of a colour, arranged along the colour wheel. Note that luminance and saturation may affect the perceived tint of a colour but not the intrinsic hue itself. The hue for orange, for example, may be identical to brown, with the difference in the colours being produced by different luminances. Typically, hue is expressed in angular degrees, with red being placed at 0° and 360°, green at 90°, cyan at 180°, and purple at 270°.",
+    "ipa": "hjuː",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Hyperbola#Functions",
+    "definition": "In calculus, a function in the basic form $y=c/x$. Hyperbolas have a vertical asymptote whenever the denominator approaches zero.",
+    "ipa": "haɪˈpɜː.bl.ə",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Hyperbola#Geometry",
+    "definition": "In geometry, a conic section consisting of two disjoint, unbounded pieces, formed when a plane cuts a double cone steeply enough to intersect both portions.",
+    "ipa": "haɪˈpɜː.bl.ə",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Hypergeometric Distribution",
+    "definition": "A type of discrete distribution designed to predict the number of wins in a series of games, where the odds of winning are affected by the outcomes of previous games. E.g. when taking eight Scrabble pieces out of a bag, the hypergeometric distribution can be used to calculate the odds of picking a given number of vowels.",
+    "ipa": "ˈhʌɪpə ˌdʒɪəˈmɛtrɪk dɪstrɪˈbjuːʃ(ə)n",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "i.e.",
+    "definition": "Id est, used to mean \"that is to say\".",
+    "ipa": "ʌɪˈiː",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Icon Drop-down",
+    "definition": "In the [GH] interface, the fold-out portion of icon panels. It contains all the icons associated with the panel, including the ones not visible on the panels themselves.",
+    "ipa": "drɒp daʊn",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Icon Panel",
+    "definition": "In the [GH] interface, a named sub-division of an icon tab, which provides access to related components. An icon panel will contain, but not necessarily show, obscure components. These can be accessed through the icon drop-down. The panel layout can be changed by applying custom layout rules.",
+    "ipa": "ˈpan(ə)ls",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Icon Tab",
+    "definition": "In the [GH] interface, the named top-level categorisation of all installed components. Plug-ins usually add a new tab for their components, but may also insert them into existing tabs. The tab layout can be changed by applying custom layout rules.",
+    "ipa": "tabs",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Identity",
+    "definition": "In mathematics, a special instance of a type, or operation, which has no effect when applied to a value.",
+    "ipa": "aɪˈden.tə.ti",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Immediate#Gradient",
+    "definition": "A type of colour interpolation used in colour gradients. The colour of any given gradient location is entirely determined by the nearest grip to the left. This means that the gradient will contain sharp discontinuities exactly at all grip locations.",
+    "ipa": "ɪˈmiːdɪət",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Immutable",
+    "definition": "In programming, data and especially collections which cannot be modified once they exist. When modifier methods are applied to immutable data, a new instance containing the change is created while the original data remains unchanged.",
+    "ipa": "ɪˈmjuːtəb(ə)l",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Implicit",
+    "definition": "In mathematics implicit shapes are described by equations, which are true for all the points on a shape. I.e. for any given point in space, the implicit equation encodes whether that point lies on or off the shape.",
+    "ipa": "ɪmˈplɪs.ɪt",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Increasing Interval",
+    "definition": "An interval where the end value is larger than the start value. As the length of an interval is calculated by subtracting the start value from the end value, an increasing interval has a positive length.",
+    "ipa": "ɪnˈkriːsɪŋ ˈɪntəv(ə)l",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Indefinite Integral",
+    "definition": "The vertically ambiguous integral of a function. It can only be used to calculate the area under the original function over a finite interval.",
+    "ipa": "ɪnˈdɛfɪnət ˈɪntɪɡr(ə)l",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Index Map",
+    "definition": "An index map encodes a reordering applied to a list of values. Most components which affect the ordering of lists will output an index map describing this shuffling. Index maps can be combined and inverted so that shuffles can either be replicated, combined or undone at a later stage.",
+    "ipa": "ˈɪn.deks mæp",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Index",
+    "definition": "In programming, the location of an item within a collection. Typically expressed as a single number. Most commonly a non-negative integer, with `[0]` indicating the first element in the collection, `[1]` the second element etc. However, items may also be indexed using text, colours, coordinates, or other types of data.",
+    "ipa": "ˈɪndɛks",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Inert Objects",
+    "definition": "Objects in [GH] which inherently lack the ability to affect a [GH] solution, e.g. groups and scribbles.",
+    "ipa": "ɪˈnəːt ˈɒbdʒɪkts",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Input",
+    "definition": "In [GH], a named element on the left hand side of a component, which contains initial or incoming data.",
+    "ipa": "ˈɪnpʊt",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Integer#(1)Mathematics",
+    "definition": "In mathematics, a number without a decimal part, a.k.a. a _whole number_. There are no lower or upper limits to the size of integers.  E.g. `-8`, `0`, `2017` and `392734` are all valid integers, whereas `0.5`, `π`, `392734.1` are not.",
+    "ipa": "ˈɪntɪdʒə",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Integer#(2)Computing",
+    "definition": "In computing, an approximation of an ideal mathematical integer. Many different types of integers are used in computing. [GH] supports 32-bit integers and variable bit integers.",
+    "ipa": "ˈɪntɪdʒə",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Integral",
+    "definition": "A function which describes the area under another function. The integral is often referred to as the inverse of the derivative. I.e. if `F(x)` is the integral of `f(x)`, then `f(x)` is the derivative of `F(x)`.",
+    "ipa": "ˈɪntɪɡr(ə)l",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Intense#Threading",
+    "definition": "A [GH2] multithreading mode in which the number of allowed parallel processes for each computation equals the number of logical cores on the machine.",
+    "ipa": "ɪnˈtens",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Interpolation",
+    "definition": "Using known samples to estimate the values between them.",
+    "ipa": "ɪntəːpəˈleɪʃ(ə)n",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Intrinsic Mean",
+    "definition": "A method for computing the average of a collection of angles. The 'instrinsic' refers to the fact that this method is restricted to within the circular space in which angles are defined. The instrinsic mean minimizes the sum of the squares of the arc-lengths from the average to all input angles.",
+    "ipa": "",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Irwin-Hall Distribution",
+    "definition": "A type of continuous distribution with a finite range modelling the outcomes of a system involving $n$ independent variables, each with a uniform distribution. I.e. the distribution of\\:",
+    "ipa": "əːwɪn hɔːl dɪstrɪˈbjuːʃ(ə)n",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Item",
+    "definition": "An individual value in a data tree, or the lack of a value in one. An item without a value is called a _null_.",
+    "ipa": "ˈʌɪtəm",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Iteration",
+    "definition": "A single repetition of the same set of instructions, taking place within a programming loop.",
+    "ipa": "ɪtəˈreɪʃ(ə)n",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Jaccard",
+    "definition": "A type of distance metric used to determine the similarity or dissimilarity between sample sets. Defined as the number of identical coordinates divided by the total number of coordinates, subtracted from one.",
+    "ipa": "ˈdʒakɑːd",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Jacobi",
+    "definition": "Named after Carl Jacobi, Jacobi polynomials form a broad family of orthogonal polynomials, and Jacobi elliptic functions generalise trigonometric functions to elliptic geometry.",
+    "ipa": "",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Jerk",
+    "definition": "A characteristic of curves and surfaces calculated with the third derivative.",
+    "ipa": "dʒɜːk",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Joint#Graph",
+    "definition": "A graph node connected to three or more edges, i.e. a place where the graph splits into several directions. Edges with a joint at one or both ends are called joint edges. Being a joint is a structural property, so it does not matter whether the edges are one-way or two-way.",
+    "ipa": "dʒɔɪnt",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Kink",
+    "definition": "A sudden discontinuity in a shape. Usually occurs where pieces meet, but may also appear within single pieces. Both curves and surfaces may contain kinks.",
+    "ipa": "kɪŋk",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Klein",
+    "definition": "Named after Felix Klein, the Klein bottle is a closed, non-orientable surface with no inside or outside. It cannot be embedded in ordinary three-dimensional space without self-intersections.",
+    "ipa": "",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Knot Vector",
+    "definition": "A list of knot values for a NURBS curve or surface. The first and last knot in the vector define the curve or surface domain.",
+    "ipa": "nɒt ˈvɛktə",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Knot",
+    "definition": "A location on a NURBS curve or surface, where one span ends and another begins. Note, that a knot is not a coordinate in 3D space, but a single number within the curve domain.",
+    "ipa": "nɒt",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "LAB",
+    "definition": "The `CIE L*a*b*` (or `Lab`) colour model is the most widely used type of luma-chroma model. Its `L` axis is associated with the luminance of the colour, while the `a` and `b` axes are associated with green-red and blue-yellow respectively.",
+    "ipa": "",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Laplace Distribution",
+    "definition": "A type of continuous distribution modelling the likelihood of extreme outcomes. It is generally bell-shaped with one sharp peak, with curve dropping exponentially on both sides of the peak.",
+    "ipa": "ləˈplɑːs dɪstrɪˈbjuːʃ(ə)n",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "LCM",
+    "definition": "See Least Common Multiple.",
+    "ipa": "",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "LDR",
+    "definition": "A property of colour spaces. Colours in a Low Dynamic Range space lack the ability to represent a wide range of brightnesses. Most colour spaces, image formats, graphics editors and computer screens are only able to deal with LDR colours.",
+    "ipa": "'ɛldiːɑː",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Least Common Multiple",
+    "definition": "In integer arithmetic, the Least Common Multiple of two values `A` and `B` is the smallest number which can be divided without remainder by both `A` and `B`.",
+    "ipa": "",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Least Significant Digit",
+    "definition": "The digit which, when altered, changes the magnitude of a number the least. It is the digit located at the far right of a string, e.g. in the number `632.48` the LSD is `8`. The least significant digits in a number are the most affected by the imprecisions inherent in floating-point mathematics and their correctness should be subject to skepticism.",
+    "ipa": "liːst sɪɡˈnɪfɪk(ə)nt ˈdɪdʒɪt",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Least Squares",
+    "definition": "In mathematics, the most common type of error metric measuring deviation from an ideal. Least squares are calculated by taking the squares of all the deviations and adding them up together. Squaring the deviations emphasises improvements in large errors over deteriorations in small errors.",
+    "ipa": "liːst skwɛːz",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Levenshtein",
+    "definition": "A type of distance metric showing the the minimum number of substitutions, deletions or insertions required to make two texts identical. An improved method compared to the Hamming metric, in that it more closely tracks human intuition.",
+    "ipa": "ˈlɛvənʃtʌɪn",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Line",
+    "definition": "In mathematics, an infinite straight curve. However, in [RH] and [GH] the term can signify both an infinite and a finite straight curve. Lines are defined by a start point and an end point. Infinite lines are assumed to extend beyond both the start and end point indefinitely.",
+    "ipa": "lʌɪn",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Linear RGB#(1)Space",
+    "definition": "An implementation of the RGB colour model which assumes a linear relationship between the primary colours and the amount of light emitted. The linear-RGB space is both the mathematically most simple and physically most correct implementation of the RGB model, but yields suboptimal results when the human eye and display technology is taken into account.",
+    "ipa": "ˈlɪnɪə ɑːdʒiːbiː",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Linear RGB#(2)Metric",
+    "definition": "A type of distance metric showing the distance between two colours in the linear-RGB unit cube. Identical colours have a distance of zero, while the largest possible distance between colours equals √3, signifying the distance between the opposite corners of the colour cube.",
+    "ipa": "ˈlɪnɪə ɑːdʒiːbiː",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Linear#Gradient",
+    "definition": "A type of colour interpolation used in colour gradients. The colour of any given gradient location is a linear combination of the colours of the grips on either side. A location exactly halfway between two grips will be a fifty-fifty blend of both grip colours. Under certain conditions this may result in what appear to be discontinuities at grip locations.",
+    "ipa": "ˈlɪnɪə",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "List",
+    "definition": "In programming, an ordered collection of values which can be replaced, removed or added to.",
+    "ipa": "lɪst",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Loft",
+    "definition": "A surface created by smoothly interpolating through a sequence of section curves. In the wider world, lofts may also refer to curves which interpolate a sequence of points, but neither [RH] nor [GH] uses the term in that way.",
+    "ipa": "lɒft",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Log-Normal Distribution",
+    "definition": "A type of continuous distribution modelling the behaviour of a variable which itself is not normally distributed, but whose logarithm follows the normal distribution. E.g. the length of chess games and blood pressure of adult humans.",
+    "ipa": "lɒɡ ˈnɔːm(ə)l dɪstrɪˈbjuːʃ(ə)n",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Logarithm",
+    "definition": "A mathematical function used to derive an exponent of a base number, i.e. $\\\\log_b x = y \\\\Leftrightarrow b^y = x$. The base number is typically 2 in computer science, _e_ in physics and 10 in e.g. economics and social sciences. Logarithms make it possible to present a multiplication as an addition instead, e.g. $a \\\\times b=c$ becomes $\\\\log(a)+\\\\log(b)=\\\\log(c)$. Most natural scales, e.g. the Richter scale, are logarithmic.",
+    "ipa": "ˈlɒɡərɪð(ə)m",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Logistic",
+    "definition": "A sigmoid function which approaches 0.0 at the left and 1.0 on the right.",
+    "ipa": "ləˈdʒɪstɪk",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Logit",
+    "definition": "A mathematical function, which is the inverse of the logistic function, in that the x in a logistic function becomes the y of the logit function.",
+    "ipa": "",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Loop#(1)Programming",
+    "definition": "In programming, the act of repeating a set of instructions in a specified manner.",
+    "ipa": "luːp",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Loop#(2)Topology",
+    "definition": "In topology, a collection of consecutive edges forming a closed curve.",
+    "ipa": "luːp",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Lossless",
+    "definition": "See _Widening_.",
+    "ipa": "ˈlɒsləs",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Lossy",
+    "definition": "See _Narrowing_.",
+    "ipa": "ˈlɒsi",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "LULU",
+    "definition": "An algorithm for removing noise from numeric sequences. LULU smoothing can be used to flatten out sudden peaks or valleys.",
+    "ipa": "ˈluːluː",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Luma-Chroma Model",
+    "definition": "A colour model predicated on the separation of luminance and chrominance properties of colour. The luma component accurately represents the perceived brightness of the colour, whereas the chroma components represent the balance of hue opposites.",
+    "ipa": "ˈluːma ˈkrəʊmə ˈmɒd(ə)l",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Manhattan",
+    "definition": "A type of distance metric, which is the sum of the absolute differences between the coordinates of two points, $d(a,b) = \\\\sum_{i=1}^{n} \\\\left| a_i - b_i \\\\right|$. Named after driving from A to B on an orthogonal street grid, such as that of Manhattan, New York. Also known as the _taxicab metric_.",
+    "ipa": "manˈhat(ə)n",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Manifold",
+    "definition": "A topological property of a shape, characterised by edges having no more than two adjacent faces.",
+    "ipa": "ˈmanɪfəʊld",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Matrix",
+    "definition": "A rectangular grid of numbers.",
+    "ipa": "ˈmeɪtrɪks",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Mcg31m1",
+    "definition": "A pseudorandom number generator in the _Multiplicative Congruential_ algorithm family. This generator relies on a modulus of $2^{31}-1$ and a multiplier of 1132489760. There are strong correlations between generated sequences, whose seed values form basic ratios.",
+    "ipa": "",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Mcg59",
+    "definition": "A pseudorandom number generator in the _Multiplicative Congruential_ algorithm family. This generator relies on a modulus of $2^{59}$ and a multiplier of $13^{13}$. There are strong correlations between generated sequences, whose seed values form basic ratios.",
+    "ipa": "",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Mean Absolute Error",
+    "definition": "A type of distance metric which is a variation of the Manhattan metric. It includes a normalisation step which divides the Manhattan distance by the number of dimensions involved, giving $\\\\text{MAE} = \\\\frac{1}{n} \\\\sum_{i=1}^{n} \\\\left| a_i - b_i \\\\right|$. MAE is used primarily in statistics to compare data sets, for example by testing the accuracy of predictions against a collection of measurements. It also makes it possible to compare distances measured in spaces with different number of dimensions.",
+    "ipa": "miːn ˈabsəluːt ˈɛrə",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Mean Squared Error",
+    "definition": "A type of distance metric, which is a variation of the Quadrance metric. It includes a normalisation step which divides the Quadrance distance by the number of dimensions. MSE is useful primarily in statistics to compare data sets, although Root Mean Squared Error is a more popular metric.",
+    "ipa": "miːn skwɛːd ˈɛrə",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Mersenne Twister",
+    "definition": "A high quality, widely used pseudorandom generator. It was designed in 1997 to specifically rectify common problems with existing generators, and as such is considered the first good pseudorandom generator. The implementation available in [GH] is the MT19937 version of the algorithm with a 32-bit word length.",
+    "ipa": "məːˈsɛn ˈtwɪstə",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Mesh",
+    "definition": "A discrete type of surface made up of triangles. In Rhino, facets are either tris or quads, where the quads are not guaranteed to be planar.",
+    "ipa": "mɛʃ",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Meta data entry",
+    "definition": "A single unit of meta data, a meta datum if you will. An entry consists of a [name](term\\://metadataname) and a [value](term\\://metadatavalue). All the entries that make up a single bundle of meta data must have unique names. See the [Meta Data](topic\\://MetaData) topic for an in-depth discussion.",
+    "ipa": "",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Meta data name",
+    "definition": "The identifying part of a meta data entry. Every [value](term\\://metadatavalue) in meta data must be associated with a unique name. See the [Meta Data](topic\\://MetaData) topic for an in-depth discussion.",
+    "ipa": "",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Meta data value",
+    "definition": "The value part of a meta data entry. Meta data is a list of uniquely [named](term\\://metadataname) values, where each value may be of a limited set of predefined types. See the [Meta Data](topic\\://MetaData) topic for an in-depth discussion.",
+    "ipa": "",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Meta data",
+    "definition": "Optional pieces of information which can be associated with any kind of data. Meta data consists of one or more [entries](term\\://metadataentry), and each entry is a [name](term\\://metadataname) + [value](term\\://metadatavalue) pair. See the [Meta Data](topic\\://MetaData) topic for an in-depth discussion.",
+    "ipa": "ˈmɛtədeɪtə",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Middling#Logging",
+    "definition": "The intermediate level of logging. Log entries of type `info`, as well as rapidly produced similar consecutive messages are omitted.",
+    "ipa": "",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Mirror",
+    "definition": "See _Reflection_.",
+    "ipa": "ˈmɪrər",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Mixing Recipe",
+    "definition": "The rules by which components automatically transfer meta data from inputs to outputs. There are three different standard mixing recipes called `None`, `Default` and `Full`, as well as custom user specified recipes.",
+    "ipa": "",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Move",
+    "definition": "See _Translation_.",
+    "ipa": "muːv",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "MP4",
+    "definition": "A video format with wide support across operating systems and video players. [GH] includes the MP4 format as a part of its animation post-process encoding options.",
+    "ipa": "em piː fɔː",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Mrg32k3a",
+    "definition": "A pseudorandom number generator in the _Combined Multiple Recursive_ algorithm family. The implementation available in [GH] is based on the 1996 publication by P. L'Ecuyer and uses two order 3 components.",
+    "ipa": "",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Multithreading",
+    "definition": "The act of running computations belonging to a single algorithm on multiple processors simultaneously.",
+    "ipa": "ˈmʌltiˈθrɛdɪŋ",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "N Choose K",
+    "definition": "See _Binomial Coefficient_.",
+    "ipa": "ɛn tʃuːz keɪ",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "N-Ary",
+    "definition": "A function of variable arity, e.g. list average.",
+    "ipa": "ɛn əri",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "N-gon",
+    "definition": "A group of adjacent coplanar mesh triangles and/or quadrilaterals acting as a single facet.",
+    "ipa": "'ɛnɡɒn",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Narrowing",
+    "definition": "In computation, a type of data conversion in which information may be lost, for example due to rounding or clipping.",
+    "ipa": "ˈnarəʊwɪŋ",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Nearest#Gradient",
+    "definition": "A type of colour interpolation used in colour gradients. The colour of  any given gradient location is entirely determined by the nearest grip. This means that the gradient will contain sharp discontinuities exactly halfway between the grips.",
+    "ipa": "'nɪərɛst",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Node#Graph",
+    "definition": "An element of a graph representing a location which can be connected to other such locations. Nodes have optional meta data and can be classified both by structure, i.e. how many edges meet there, and by traffic, i.e. whether they can be entered and left.",
+    "ipa": "nəʊd",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Noise Field",
+    "definition": "A field which assigns random noise values to each point in space.",
+    "ipa": "nɔɪz fiːld",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Noise",
+    "definition": "The randomness contained within a signal. Noise functions simulate various kinds of randomness found in real world signals. The two main types of noise functions are value and gradient noise. Each value in value noise is independent of its neighbouring values, thus this type of noise can only occur in discrete signals. In gradient noise the values vary smoothly, i.e. each value is related to the values in its immediate vicinity. In computing, noise is typically used to mimic natural effects, such as film grain, moss growth patterns or landscape heights.",
+    "ipa": "nɔɪz",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Non-manifold",
+    "definition": "A topological property of a shape, characterised by at least one edge having three or more adjacent faces. It should be noted, that many mathematical operations do not work on non-manifold objects.",
+    "ipa": "'nɒnmanɪfəʊld",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Normal Distribution",
+    "definition": "A type of continuous distribution, which describes or approximates a wide range of natural processes. E.g. when measuring the speed of vehicles at a given spot, or the size of carrots, the results will approximate a normal distribution.",
+    "ipa": "ˈnɔːm(ə)l dɪstrɪˈbjuːʃ(ə)n",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Normal#(1)Curve",
+    "definition": "The plane perpendicular to a curve at a given point. Where a curve has a kink, the normal is ambiguous.",
+    "ipa": "ˈnɔːm(ə)l",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Normal#(2)Surface",
+    "definition": "The vector perpendicular to a surface at a given point. Where a surface has a crease, the normal is ambiguous.",
+    "ipa": "ˈnɔːm(ə)l",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Null",
+    "definition": "The absence of an actual value. Values can be removed from a collection without shrinking it, and without affecting the indices of the remaining values, by replacing the unwanted ones with nulls.",
+    "ipa": "nʌl",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Number",
+    "definition": "A mathematical entity on which mathematical operations are performed. The concept includes several subcategories, some of which overlap. Among these are natural numbers, whole numbers or integers, rational numbers, real numbers and complex numbers.",
+    "ipa": "ˈnʌmbə",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "NURBS Surface",
+    "definition": "A type of surface defined by a rectangular control point grid and `u` and `v` knot vectors.",
+    "ipa": "nəːbz ˈsəːfɪs",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "NURBS",
+    "definition": "Curved geometry controlled primarily via the placement of control points. NURBS curves and surfaces are defined using a robust set of computationally friendly equations.",
+    "ipa": "nɜːbz",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Object-level",
+    "definition": "Settings only germane to individual objects. This stands in contrast to document-level, or application-level settings.",
+    "ipa": "ˈɒb.dʒekt lev.əl",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Octave",
+    "definition": "A doubling or halving of frequency.",
+    "ipa": "ˈɒk.tɪv",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "One-way#Graph",
+    "definition": "A graph edge which only allows travel from its start node to its end node. Two-way edges allow travel in both directions.",
+    "ipa": "ˌwʌnˈweɪ",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Opacity",
+    "definition": "An aspect of colour or material denoting how poorly one can see through it.",
+    "ipa": "ə(ʊ)ˈpasɪti",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Open Curve",
+    "definition": "Curves whose start- and end-points are not coincident.",
+    "ipa": "ˈəʊ.pn kɜːv",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Open Interval",
+    "definition": "An interval which does not include its end values. E.g. an interval from 0 to 10, which excludes the values 0 and 10. An open interval is denoted with round brackets, e.g. `(0,10)`.",
+    "ipa": "ˈəʊp(ə)n ˈɪntəv(ə)l",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Open Surface",
+    "definition": "A surface with at least one edge which only borders on a single face. Open surfaces do not have a reliable inside-outside metric, nor do they have meaningful volumes.",
+    "ipa": "ˈəʊ.pn ˈsɜː.fɪs",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "OpenColor",
+    "definition": "A colour standard meant for user interfaces created by [heeyuen](https\\://github.com/yeun) and released under the MIT open source licence. Colours in the [GH] interface often default to one of the OpenColor swatches.",
+    "ipa": "",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Operator Field",
+    "definition": "In [GH], a field which modifies the values of one or more other fields. E.g. the absolute modifier turns all negative numbers in the underlying field positive, and the addition modifier adds the values of two or more fields together.",
+    "ipa": "ˈɒpəreɪtə fiːld",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Operator",
+    "definition": "A mathematical function so fundamental, that it has a symbol of its own. The most common ones are the arithmetical operators $(+, -, \\\\times, \\\\div)$.",
+    "ipa": "ˈɒpəreɪtə",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Orientation",
+    "definition": "Combination of _translation_ and _rotation_ transformations.",
+    "ipa": "ˌɔːrɪənˈteɪʃ(ə)n",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Osculating",
+    "definition": "From the Latin for kissing, osculating circles are approximations of a curve's position, tangent direction and curvature at a given curve locus. They are one order higher than tangent lines as they encode one additional derivative.",
+    "ipa": "ˈɒs.kjə.leɪ.tɪŋ",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Outlier",
+    "definition": "A value which lies far from the central tendency of a dataset and is thus considered anomalous or noisy.",
+    "ipa": "ˈaʊtˌlaɪ.ə",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Output",
+    "definition": "In [GH], a named element on the right hand side of a component, which contains results of the component's calculations.",
+    "ipa": "ˈaʊtpʊt",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Palf",
+    "definition": "A high quality pseudorandom number generator. Palf stands for _Parallel Additive Lagged Fibonacci_, and is generally considered to yield a less predictable pseudorandom sequence than Linear Congruential generators.",
+    "ipa": "palf",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Panel",
+    "definition": "In [GH], a document object which displays the values flowing through it. Some value types are displayed as plain text, others have custom display styling.",
+    "ipa": "",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Parabola#Geometry",
+    "definition": "In geometry, a conic section formed by intersecting a cone with a plane parallel to one of its side lines.",
+    "ipa": "pəˈræbl.ə",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Parabola#Mathematics",
+    "definition": "In calculus, a polynomial function with the base form $y=x^2$.",
+    "ipa": "pəˈræbl.ə",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Parameter#(1)Grasshopper",
+    "definition": "In [GH], an object which stores data. A single parameter contains data of a specific type. Parameters may occur individually as free floating objects, or they may be part of a component, where they serve as the inputs and outputs.",
+    "ipa": "pəˈramɪtə",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Parameter#(2)Mathematics",
+    "definition": "In mathematics, parameters are the required inputs for a function. E.g. in `sin(x)` and `atan(a,b)`, the parameters are `x`, `a`, and `b`. In the mathematical context, parameters may also be known as _variables_ or _arguments_, though technically there are subtle differences between the three.",
+    "ipa": "pəˈramɪtə",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Parameter#(3)Programming",
+    "definition": "In programming, a value passed to a function. In certain programming languages, parameters are referred to as _arguments_.",
+    "ipa": "pəˈramɪtə",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Pareto Distribution",
+    "definition": "A type of continuous distribution modelling unequal social or scientific distributions. E.g. distribution of wealth, or number of species per biological genus, or word frequencies in a language.",
+    "ipa": "paˈriːtəʊ dɪstrɪˈbjuːʃ(ə)n",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Pascal's Triangle",
+    "definition": "A triangular array of numbers in which each value is the sum of the two entries directly above it. The triangle is typically used to compute binomial coefficients, but has other uses as well.",
+    "ipa": "",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Path",
+    "definition": "An ordered collection of one or more non-negative integers, which uniquely identifies twigs in a data tree. Paths are denoted using curly brackets with semicolons separating the integers. The simplest path can be written as `{0}`, while a more complex path might look like `{0;4;12;2}`.",
+    "ipa": "pɑːθ",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Pear",
+    "definition": "In [GH], the pairing of a regular value alongside its meta data. [GH] uses a homophone of \"pair\" because \"pair\" is already commonly used and \"pear\" fits in well with the concept of data trees.",
+    "ipa": "peər",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Pearson",
+    "definition": "A type of distance metric between two variables. Defined as one minus the Pearson correlation coefficient. Pearson distances always lie between zero and two, where zero represents utterly uncorrelated points and two very correlated points. Used e.g in research on gene expression or cyber security.",
+    "ipa": "ˈpɪəsən",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Periodic",
+    "definition": "In NURBS geometry, a smooth shape made closed by an unclamped knot vector and overlapping terminal control points. Curves and surfaces which are periodic are always closed and always exhibit the highest possible degree of continuity across the seam.",
+    "ipa": "ˌpɪərɪˈɒdɪk",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Perlin Noise",
+    "definition": "A type of gradient noise between an upper and a lower limit. [GH] 1.0 provided one-dimensional Perlin noise, but in [GH] 2.0 only one-dimensional simplex noise is available. This is because simplex noise offers better control of lower and upper extremes and scales more naturally to higher dimensions.",
+    "ipa": "ˈpəːlɪn nɔɪz",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Persistent Data",
+    "definition": "In [GH], data fed into the system manually or data specified by a human. Can be thought of as existing data placed into the system before the computation process. Persistent data is included in the file when it is saved.",
+    "ipa": "pəˈsɪst(ə)nt ˈdeɪtə",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Phi",
+    "definition": "A mathematical constant, also known as the golden ratio. Defined as $\\\\frac{1}{2}(1+\\\\sqrt{5})$. Can only be approximated by computers since it is an irrational number. Roughly equal to $1.618034 \\\\dots$",
+    "ipa": "fʌɪ",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Pi",
+    "definition": "A mathematical constant, defined as the ratio of a circle's circumference to its diameter. Can only be approximated by computers as it is an irrational number. Roughly equal to `3.141593…`",
+    "ipa": "pʌɪ",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Piecewise",
+    "definition": "A property of a class of shapes. Piecewise shapes are constructed out of consecutive pieces, each of which can be governed by their own functions. NURBS curves and surfaces are an example of piecewise geometry as each span is shaped by a different set of polynomial equations.",
+    "ipa": "ˈpiːswʌɪz",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Plane",
+    "definition": "A flat infinite surface consisting of an origin point and three axis vectors. These vectors are typically called X, Y and Z and they are always perpendicular to each other.",
+    "ipa": "pleɪn",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Planesurface",
+    "definition": "In [RH] and [GH], a type of surface defined by a plane and two intervals along the X and Y axis respectively. The planesurface definition is identical to the rectangle definition. The latter forms the outline of a rectangular shape, while the former is its interior.",
+    "ipa": "pleɪnˈsəːfɪs",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Point Cloud",
+    "definition": "A collection of points where each point can have its own independent colour.",
+    "ipa": "pɔɪnt klaʊd",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Point",
+    "definition": "In mathematics, a geometrical object with zero dimensions.",
+    "ipa": "pɔɪnt",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Poisson Distribution",
+    "definition": "A type of discrete distribution describing the density of occurrences in a time interval or a spatial region. E.g. the number of supernovae observed per year would follow a Poisson distribution, as would the number of supernovae observed in a specific region of space.",
+    "ipa": "ˈpwɑːsɒn dɪstrɪˈbjuːʃ(ə)n",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Polar Coordinates",
+    "definition": "A coordinate system in which each point is described by one or more angles, as measured against a specific reference direction, as well as a distance from the origin.",
+    "ipa": "",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Polycurve",
+    "definition": "An ordered series of curves, where consecutive curve segments connect to each other by sharing their end points.",
+    "ipa": "ˈpɒlɪkəːv",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Polygon",
+    "definition": "In mathematics, a closed planar curve consisting of straight edges, all of which are of the same length and have the same angles between them. In [GH] polygons are represented with polylines.",
+    "ipa": "ˈpɒlɪɡ(ə)n",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Polyline",
+    "definition": "An ordered series of line segments, where consecutive segments connect to each other by sharing their end points.",
+    "ipa": "ˈpɒlɪlʌɪn",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Preview",
+    "definition": "A property of a [GH] object concerning whether its data is drawn in the [RH] viewports. The preview state of an object can be set through the menus. Note that other settings may also affect [GH] previews.",
+    "ipa": "ˈpriːvjuː",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Primary Data",
+    "definition": "In [GH], the actual values. This is in opposition to meta data, which can be considered secondary data.",
+    "ipa": "ˈpraɪ.mr.i ˈdeɪ.tə",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Primary",
+    "definition": "A state of the Relevance property, in which the object's data is drawn normally in the RH viewports.",
+    "ipa": "ˈprɪnsɪp(ə)l",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Principal Axis",
+    "definition": "The axes through the centroid of a shape, about which the moment of inertia is the smallest or the largest.",
+    "ipa": "ˈprɪn.sə.pl ˈæk.sɪs",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Principal Moment",
+    "definition": "The moment of inertia about a principal axis.",
+    "ipa": "ˈprɪn.sə.pl ˈməʊ.mənt",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Probability Density Function",
+    "definition": "Describes the likelihood that a certain value will occur randomly within a certain distribution. The higher the value of `PDF(x)`, the more likely `x` is to occur.",
+    "ipa": "prɒbəˈbɪlɪti ˈdɛnsɪti ˈfʌŋ(k)ʃ(ə)n",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Probability Distribution",
+    "definition": "In statistics, a description of how common various outcomes are. The more common outcomes have a greater probability of occurring within the distribution. The distribution itself is either calculated using a probability distribution function, or just created from a collection of samples.",
+    "ipa": "prɒbəˈbɪlɪti dɪstrɪˈbjuːʃ(ə)n",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Projection",
+    "definition": "A transformation which flattens a shape onto a 2D plane, along the normal of the plane.",
+    "ipa": "prəˈdʒɛkʃ(ə)n",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Pseudorandom",
+    "definition": "In computing, a deterministic approximation of genuine randomness. Genuine random numbers  are impossible on deterministic machines, such as digital computers. Various pseudorandom engines are available in [GH].",
+    "ipa": "ˌsjuːdəʊˈrandəm",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Quad",
+    "definition": "See _quadrilateral_.",
+    "ipa": "kwɒd",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Quadrance",
+    "definition": "A type of distance metric similar to a distance between points when measured with a ruler. It differs from the Euclidean distance metric in that the square root of the summed differences is left uncalculated. Commonly used in algorithms due to the calculation being quicker. The standard distance metric in rational trigonometry.",
+    "ipa": "ˈkwɒdr(ə)ns",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Quadrilateral",
+    "definition": "A mesh facet connecting four vertices.",
+    "ipa": "ˌkwɒdrɪˈlat(ə)r(ə)l",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Quaternion",
+    "definition": "A four-dimensional number with one real and three imaginary components, commonly used to represent rotations in three-dimensional space. Standard quaternion notation uses $i$, $j$, and $k$ as the imaginary constants\\:",
+    "ipa": "kwəˈtɜː.ni.ən",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Queue",
+    "definition": "In programming, a collection of values where the only accessible or removable value is the oldest one.",
+    "ipa": "kjuː",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Radial#(1)Metric",
+    "definition": "A type of distance metric showing the absolute difference between the Euclidean distances two points have to the coordinate system origin. That is, points that both lie on the same circle centred on (0,0) have a radial distance of zero, regardless of their orientation.",
+    "ipa": "ˈreɪdɪəl",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Radian",
+    "definition": "In geometry, a unit of angle measurement. A full circle equals $2\\\\pi$, or approximately $6.283\\\\dots$ Radians are the most commonly used angle unit in mathematical analysis, and all angles which lack a specific type are considered to be radians by [GH] 2.0",
+    "ipa": "ˈreɪdɪən",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Radius",
+    "definition": "A measure of magnitude between the centre and the edge of a shape or a phenomenon. Sometimes the radius means something very accurate and specific, e.g. in the case of circles and ellipses. At other times the radius may only be a vague descriptor, e.g. in the case of explosions or influence.",
+    "ipa": "ˈreɪ.di.əs",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Random Engine",
+    "definition": "An algorithm, which generates sequences of pseudorandom numbers.",
+    "ipa": "ˈrandəm ˈɛndʒɪn",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Random Seed",
+    "definition": "A single integer, which defines a specific sequence of pseudorandom numbers.",
+    "ipa": "ˈrandəm siːd",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Random#(1)Mathematics",
+    "definition": "In mathematics, a value which is partially or wholly unpredictable based on the preceding values in the sequence. Commonly encountered in the fields of signal processing and information theory.",
+    "ipa": "ˈrandəm",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Random#(2)Computing",
+    "definition": "In computing used as a shorthand for pseudorandom, as genuine random numbers are impossible on deterministic machines such as digital computers.",
+    "ipa": "ˈrandəm",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Ray",
+    "definition": "A semi-finite line defined by a start point and a direction vector. The ray has no end point and continues forever along its direction vector. In computing rays are almost exclusively used for intersection or collision testing.",
+    "ipa": "reɪ",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Rayleigh Distribution",
+    "definition": "A type of continuous distribution for two independent variables. It models the length of a two-dimensional vector whose individual components are independent and normally distributed, e.g. wind speed, or the horizontal and vertical deviation of darts from the bullseye.",
+    "ipa": "ˈreɪliː dɪstrɪˈbjuːʃ(ə)n",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Rectangle",
+    "definition": "In [RH], a type of closed planar curve, defined by a base plane and two numeric intervals. The intervals specify the size of the rectangle along the  base plane's x and y axes.",
+    "ipa": "ˈrɛktaŋɡ(ə)l",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Recursion",
+    "definition": "A type of self-referencing loop in programming. Recursive functions may call themselves as part of their process, while recursive data structures may contain other instances of the same type of object. I.e. folders on a hard disk may contain other folders.",
+    "ipa": "rɪˈkəːʃn",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Reflection#(1)Transformation",
+    "definition": "A geometric transformation in which a shape is changed into its own mirror image.",
+    "ipa": "rɪˈflɛkʃ(ə)n",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Reflection#(2)Programming",
+    "definition": "In programming, the act of inspecting the functionality and memory state of a program during runtime.",
+    "ipa": "rɪˈflɛkʃ(ə)n",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Region",
+    "definition": "The area enclosed by one or more closed coplanar curves. If another boundary curve is nested within the area, it is interpreted as a hole. Whether or not a region may consist of disconnected areas, depends on context. If boundary curves intersect, the difference between interior and exterior can no longer be unambiguously defined.",
+    "ipa": "ˈriːdʒ(ə)n",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Relevance",
+    "definition": "The rating of the importance of a [GH] object. The relevance state of an object can be set through the menu. Affects primarily the preview in the RH viewports. Does not affect how the objects themselves function.",
+    "ipa": "ˈrɛləv(ə)ns",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Remesh",
+    "definition": "The act of replacing the facets, and possibly the vertices, of a mesh in order to improve the quality of the original mesh, or change its density .",
+    "ipa": "ˌriːˈmeʃ",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Revolution",
+    "definition": "In [RH] and [GH], a type of surface defined by a profile curve, an axis and a sweep angle. At the time of writing [RH] requires the profile curve to be coplanar with the axis.",
+    "ipa": "rɛvəˈluːʃ(ə)n",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "RGB",
+    "definition": "A colour model predicated on the observation that various primary coloured lights can be mixed together to approximate non-primary colours. The RGB model posits three primaries in the reddish, greenish and blueish parts of the spectrum, but leaves the specifics as the responsibility of whichever colour space implements the RGB model.",
+    "ipa": "'ɑːdʒiːbiː",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "RHP",
+    "definition": "A C++ or [.NET] compliant assembly associated with [RH] and [GH] 2.0 plug-ins. Files with this format can provide both [GH] functionality such as components or data types, as well as [RH] functionality such as commands, file import/export and render engines.",
+    "ipa": "ɑː eɪtʃ piː",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Rigid Transformation",
+    "definition": "A geometric transformation which could conceivably be applied to rigid, real world objects without breaking them. The only transformations which qualify as rigid are _translation_ and _rotation_.",
+    "ipa": "ˈrɪdʒɪd ˌtransfəˈmeɪʃ(ə)n",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Root Mean Squared Error",
+    "definition": "A type of distance metric which is a variation of the Mean Squared Error metric. It applies a square root to the MSE distance, mitigating some of the effects of large errors, giving\\:",
+    "ipa": "ruːt miːn skwɛːd ˈɛrə",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Rotation",
+    "definition": "A geometric transformation in which a shape undergoes motion around an axis, with the entire shape moving in unison.",
+    "ipa": "rə(ʊ)ˈteɪʃ(ə)n",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Rounding",
+    "definition": "An approximation of a value to a fixed number of decimal places.",
+    "ipa": "raʊndɪŋ",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Run Time",
+    "definition": "When the instructions contained in the code of a finished computer program are executed by the computer.",
+    "ipa": "rʌn tʌɪm",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "S-Noise",
+    "definition": "The standard gradient noise function in [GH] 2.0. It is based on layering multiple simple noise functions, otherwise known as octaves, with each octave having both a higher frequency and a lower amplitude than the previous one. S-Noise is very similar to the more commonly used Simplex and Perlin noise functions, but allows for partial octaves, and is always guaranteed to yield zero when `x=0`.",
+    "ipa": "es nɔɪz",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Same Folder Backup",
+    "definition": "A file saving backup mechanism where a GHZ file about to be overwritten by a newer version is timestamped and kept in the same folder.",
+    "ipa": "",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Sandbox",
+    "definition": "A state of the Grasshopper application in which changes to settings and options are not written to files. I.e. changes to settings are no longer persistent. Furthermore the overwriting of existing files requires additional permission from the user on a per-file basis, as does the running of expressions.",
+    "ipa": "",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Saturation",
+    "definition": "The intensity or purity of a colour, ranging from a neutral grey at zero to a fully saturated chromatic value at one.",
+    "ipa": "ˌsætʃ.əˈreɪ.ʃn",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Scalar Field",
+    "definition": "A field which associates a number with every point in space. In physics, scalar refers to a unitless number.",
+    "ipa": "ˈskeɪlə fiːld",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Scalar Product",
+    "definition": "The multiplication of a vector and a number. The result is a single vector whose length equals the length of the original vector times the number input. When a vector is multiplied by a negative number, it changes direction as well as magnitude.",
+    "ipa": "ˈskeɪlə ˈprɒdʌkt",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Scale",
+    "definition": "See _Dilation_.",
+    "ipa": "skeɪl",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Scribble",
+    "definition": "A free-form text annotation on the [GH] canvas, used for commenting and labelling.",
+    "ipa": "ˈskrɪb.l",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Seam",
+    "definition": "The portion of a closed shape where its two extreme ends meet and form the loop required for the shape to be closed.",
+    "ipa": "siːm",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Secant",
+    "definition": "A trigonometric function operating on angles in right-angled triangles. The secant of an angle equals the ratio of the hypotenuse to the adjacent edge.",
+    "ipa": "ˈsɛk(ə)nt, ˈsiːk(ə)nt",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Seed",
+    "definition": "In computing, an integer used as the initial state of a random number generator. The seed controls the first number in a pseudo-random sequence, this first number is then modified by the algorithm to generate the next number and so on.",
+    "ipa": "siːd",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Segment",
+    "definition": "A section of geometry bounded by distinct edges or end points.",
+    "ipa": "ˈsɛɡm(ə)nt",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Set#Mathematics",
+    "definition": "In mathematics, a set is an unordered collection of unique elements. Sets may be finite, e.g. all the 10-digit primes, or infinite, e.g. all the ways in which I love you. Sets are even allowed to contain themselves. For example, the set of all concepts is, itself, a concept.",
+    "ipa": "set",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Sharp Edge",
+    "definition": "See\\: Crease Edge",
+    "ipa": "ʃɑːp edʒ",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Shear",
+    "definition": "A geometric transformation in which all the points in a plane, parallel to the transformation base plane, move together. How far the points move is directly proportional to their distance from the base plane. Turning a rectangle into a parallellogram, or a box into a parallellopiped is an example of shearing.",
+    "ipa": "'ʃɪərɪŋ",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Shown",
+    "definition": "A state of the Preview property in which the data from a [GH] object is shown in the [RH] viewports.",
+    "ipa": "ʃəʊn",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Sigmoid",
+    "definition": "Adjective used to describe functions which smoothly transition from one value to another. Common sigmoid functions available in [GH] include `atan`, `tanh`, `erf`, `logistic` and `smooth step`.",
+    "ipa": "ˈsɪɡ.mɔɪd",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Signed Area",
+    "definition": "An area metric with support for negative values. For example, the sign of the area of a region may depend on the orientation of its boundary, i.e. whether the boundary runs clockwise or anticlockwise. This is commonly used to define holes in regions, as the negative area of a hole is automatically subtracted from the total area of the region.",
+    "ipa": "sʌɪnd ˈɛːrɪə",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Signed Distance",
+    "definition": "A distance metric which supports negative values. For example, a point underneath a plane can be said to have a negative distance to that plane. Similarly, the sign of a distance can be used to indicate whether a point is located inside or outside of a shape.",
+    "ipa": "sʌɪnd ˈdɪst(ə)ns",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Signed Length",
+    "definition": "A length metric with support for negative values. For example, an interval will have a negative length, if its initial value is larger than its final value.",
+    "ipa": "sʌɪnd lɛŋθ",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Signed Volume",
+    "definition": "A volume metric with support for negative values. For example, the sign of the volume of a shape may be negative if the shape is turned inside out. This may be intentional in the case of holes or voids, but it may also result from misaligned normals.",
+    "ipa": "sʌɪnd ˈvɒljuːm",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Sine",
+    "definition": "A trigonometric function operating on angles in right-angled triangles. The sine of an angle equals the ratio of the opposite edge to the hypotenuse.",
+    "ipa": "sʌɪn",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Single Precision",
+    "definition": "A type of floating point number which uses 32 bits in total. This is the most commonly used number type in display-related programming. When written in a decimal format, single precision floating point numbers have about 6 to 9 significant decimal places.",
+    "ipa": "ˈsɪŋɡ(ə)l prɪˈsɪʒ(ə)n",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Singleton Interval",
+    "definition": "An interval where the end value equals the start value. As the length of an interval is calculated by subtracting the start value from the end value, a singleton interval has a zero length.",
+    "ipa": "ˈsɪŋɡ(ə)lt(ə)n ˈɪntəv(ə)l",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Sink#Graph",
+    "definition": "A graph node which can be entered but not left, because all its edges are one-way edges pointing towards it. Once a sink has been reached, no other node can be visited.",
+    "ipa": "sɪŋk",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Sinusoidal#(2)Metric",
+    "definition": "A type of distance metric showing the distance between two colours in the H*SP sinusoidal model. Unlike in the cylindrical model, the poles representing pure white and black are pinched into points. This metric corresponds to the human experience of colour better than the other hue-saturation metrics, in that the hue difference in very light and very dark values is suppressed. E.g. strong blue and strong red are shown as being farther apart from each other than very dark blue and very dark red.",
+    "ipa": "sʌɪnəˈsɔɪd(ə)l",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Site",
+    "definition": "The combination of a _path_ and an _index_ designating the exact location of an item within a data tree. The path portion of a site specifies the twig within the tree, and the index specifies the item within that twig.",
+    "ipa": "sʌɪt",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Skewness",
+    "definition": "A measure of the asymmetry in a statistical distribution or a collection of samples. Distributions which are symmetrical around the mean have no skewness.",
+    "ipa": "ˈskjuː.nəs",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Smooth Edge",
+    "definition": "See\\: Tangent Edge",
+    "ipa": "smuːð edʒ",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Smooth Step",
+    "definition": "A common interpolation function defined on the interval [0, 1]. The SmoothStep function is a sigmoid, or S-shaped, cubic polynomial with horizontal tangents at both zero and one.",
+    "ipa": "smuːð stɛp",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Smooth#Gradient",
+    "definition": "A type of colour interpolation used in colour gradients. The colour of any given gradient location is a smooth combination of the colours of the grips on either side. This interpolation yields a smoother progression across grips than the linear interpolation scheme.",
+    "ipa": "smuːð",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Smoother Step",
+    "definition": "An interpolation function defined on the interval [0, 1]. The SmootherStep function is a sigmoid, or S-shaped, degree 5 polynomial with horizontal tangents at both zero and one.",
+    "ipa": "smuːðə stɛp",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Smoothest Step",
+    "definition": "An interpolation function defined on the interval [0, 1]. The SmoothestStep function is a sigmoid, or S-shaped, degree 7 polynomial with horizontal tangents at both zero and one.",
+    "ipa": "'smuːðəst stɛp",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Snap",
+    "definition": "See 'Yank'.",
+    "ipa": "snæp",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Solid Difference",
+    "definition": "A difference involving two or more closed surfaces or meshes.",
+    "ipa": "ˈsɒl.ɪd ˈdɪf.r.ns",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Solid Intersection",
+    "definition": "An intersection involving two or more closed surfaces or meshes.",
+    "ipa": "ˈsɒl.ɪd ˌɪn.təˈsek.ʃn",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Solid Union",
+    "definition": "A union involving two or more closed surfaces or meshes.",
+    "ipa": "ˈsɒl.ɪd ˈjuː.njən",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Solution",
+    "definition": "In [GH], solutions refer both to the computed data associated with a specific file and the process of computing that data. Whenever a file is modified, e.g. by adding or removing a component, by creating or deleting a wire, or by modifying the state of an existing component, the current solution expires and the calculations required for the new solution begin.",
+    "ipa": "səˈluːʃ(ə)n",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Sort Key",
+    "definition": "The numeric or textual proxies representing the property on which a sorting of values is based. For example, when sorting curves from short to long, the lengths are used as the sort keys.",
+    "ipa": "sɔːt kiː",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Sorted List",
+    "definition": "In programming, an ordered collection of unique values, which are always in ascending order. Finding a value in a sorted list is faster than finding one in an unsorted list, but adding a value is slower.",
+    "ipa": "ˈsɔːtɪd lɪst",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Sorting",
+    "definition": "Reordering a list so that all items are placed in ascending order. Two types exist; numeric and textual. Of these two, textual sorting is culture dependent.",
+    "ipa": "sɔːtɪŋ",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Source#Graph",
+    "definition": "A graph node which can be left but not entered, because all its edges are one-way edges pointing away from it. It is impossible to reach a source when starting from any other node.",
+    "ipa": "sɔːs",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Span",
+    "definition": "A subdomain of a NURBS curve or surface bounded by two consecutive knots. A span represents a portion of a NURBS shape which can be described using a single polynomial equation.",
+    "ipa": "spæn",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Sphere",
+    "definition": "In [RH], a closed surface defined by a base plane and a radius.",
+    "ipa": "sfɪə",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Spherical",
+    "definition": "A coordinate system which describes the location of points on or around a sphere using a radius and two angles.",
+    "ipa": "ˈsfer.ɪ.kl",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Spiral",
+    "definition": "A planar curve that winds around a fixed centre at a consistently increasing distance. Different growth functions yield spirals of different types. The most common of these are Circular for zero growth, Archimedean for linear growth, and Constant Pitch for exponential growth spirals.",
+    "ipa": "ˈspaɪə.rl",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Spline",
+    "definition": "In CAD, a type of curve defined by polynomial functions. In [RH] these are predominantly referred to as _curves_.",
+    "ipa": "splʌɪn",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Spread#(1)Statistics",
+    "definition": "In statistics, a way to describe how spread out or concentrated the observations in a sample are.",
+    "ipa": "sprɛd",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Spread#(2)Angle",
+    "definition": "In geometry, a unit of angle measurement originating in the field of rational trigonometry. Unlike with degrees and radians, simple addition can not be used to add two spread values together.",
+    "ipa": "sprɛd",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "sRGB#(1)Space",
+    "definition": "An implementation of the RGB colour model, which differs from linear RGB in that it compresses the dark colours. This allows for a greater number of bright colours.",
+    "ipa": "ɛs'ɑːdʒiːbiː",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "sRGB#(2)Metric",
+    "definition": "A type of distance metric showing the distance between two colours in the `sRGB` unit cube. Identical colours have a distance of zero, while the largest possible distance between colours equals $\\\\sqrt{3}$, signifying the distance between the opposite corners of the colour cube.",
+    "ipa": "ɛs ɑːdʒiːbiː",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Stable Sort",
+    "definition": "An attribute of sorting algorithms, indicating that values retain their original order provided this does not conflict with the sort order. E.g. values which are identical with respect to sort order are not shuffled.",
+    "ipa": "ˈsteɪb(ə)l sɔːt",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Stack",
+    "definition": "In programming, a collection of values, of which the only accessible or removable element is the last one. Adding a value to a stack is called _pushing_, and removing one is called _popping_.",
+    "ipa": "stak",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Statistics",
+    "definition": "In mathematics, the field of study concerned with collecting, organising, analysing,  and interpretating data.",
+    "ipa": "stəˈtɪstɪks",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Status",
+    "definition": "A [GH] object property, which determines whether or not a [GH] object is enabled or disabled, i.e. on or off. The status of an object can be set through the menus. Changing the status causes all the dependent objects to recalculate.",
+    "ipa": "akˈtɪvɪti",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Student's T-Distribution",
+    "definition": "A type of continuous distribution modelling the distribution of an entire population, when only a sample of the population is known. Unlike the normal distribution, the T-distribution takes into account the size of the known sample. Especially for small sample sizes, the resulting curve has fatter tails and a lower peak than the normal distribution curve, reflecting the increased uncertainty within the calculation.",
+    "ipa": "ˈstjuːd(ə)nts tiː dɪstrɪˈbjuːʃ(ə)n",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "SubD",
+    "definition": "See\\: Subdivision Surface",
+    "ipa": "ˈsʌb.diː",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Subdivision Surface",
+    "definition": "A type of surface defined as the mathematical limit of an infinite sequence of subdivisions of a control mesh. Subdivision surfaces, or SubDs for short, are one of the fundamental types of surfaces in [RH] and [GH], and they are uniquely suited for organic and curved shapes.",
+    "ipa": "ˈsʌb.dɪˌvɪʒ.n ˈsɜː.fɪs",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Subdivision",
+    "definition": "The process of refining a discrete shape into a smoother and denser one. This is almost always done by inserting new vertices in between existing ones, and subsequently updating the connecting faces and edges. [GH] provides several ways to subdivide polylines and meshes.",
+    "ipa": "ˈsʌb.dɪˌvɪʒ.n",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Sum Surface",
+    "definition": "In [RH] and [GH], a type of surface defined by sliding a profile curve along a path curve.",
+    "ipa": "sʌm ˈsəːfɪs",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Surface#(1)Mathematics",
+    "definition": "In mathematics, any two-dimensional object in a two or higher-dimensional space.",
+    "ipa": "ˈsəːfɪs",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Symmetry",
+    "definition": "A property of a shape, meaning it is invariant under one or more transformations, such as rotation, translation, and especially reflection.",
+    "ipa": "ˈsɪm.ə.tri",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "System#(1)Random",
+    "definition": "The default [.NET] pseudorandom generator and the only one available in [GH] 1. Although fast, reliable and commonly available, the System generator will produce obvious patterns in three or more sequences, whose seed values differ by basic ratios. The System generator belongs to the _Linear Congruential_ algorithm family.",
+    "ipa": "ˈsɪstəm",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Tangent Edge",
+    "definition": "An edge whose adjacent faces have parallel normals along the entire length of the edge. Tangent edges are also sometimes called smooth edges, because the transition from one face to another is smooth.",
+    "ipa": "ˈtæn.dʒnt edʒ",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Tanh",
+    "definition": "The hyperbolic tangent function defined as the ratio between `sinh` and `cosh`. The hyperbolic tangent is a sigmoid function with a domain covering the entire number line, and a co-domain from -1 to +1.",
+    "ipa": "",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Taper",
+    "definition": "A geometric transformation mimicking the effects of one, two or three point perspectives.",
+    "ipa": "ˈteɪpər",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Taylor Series",
+    "definition": "An approximation of an arbitrary, continuous function constructed out of a sequence of polynomial terms, which are based on the derivative of said underlying function. Taylor series are a method to convert a function into polynomial form, making it more suitable or efficient for certain tasks.",
+    "ipa": "",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Ternary#Function",
+    "definition": "A function or operator of arity three, e.g. `clip(x,a,b)` or the conditional operator `if a, then b, else c`.",
+    "ipa": "ˈtəːnəri",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Tessellate",
+    "definition": "The act of covering a surface in a regular grid of non-overlapping shapes, which are identical or similar to each other. Common tesselations can be created using triangles, squares, rectangles, and hexagons, but other shapes and mixtures of shapes can also form valid tesselations.",
+    "ipa": "ˈtes.l.eɪt",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Text Dot",
+    "definition": "A type of annotation geometry placed in [RH] by [GH], primarily consisting of a point location and a text segment. The font and colour properties of text dots can be overridden using [GH] meta data.",
+    "ipa": "tekst dɒt",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Text",
+    "definition": "Any sequence of characters. In programming this is commonly known as a _string_. Text with zero characters is called an _empty string_.",
+    "ipa": "tɛkst",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Timestamp#Save",
+    "definition": "A combination of various date and time properties appended to file names when files are backed up during a save action.",
+    "ipa": "ˈtaɪm.stæmp",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Tolerance",
+    "definition": "The level of accuracy, below which differences are treated as equalities.",
+    "ipa": "ˈtɒl(ə)r(ə)ns",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Topology",
+    "definition": "In mathematics, the field of study concerned with the classification and connectedness of shapes.",
+    "ipa": "təˈpɒlədʒi",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Torsion",
+    "definition": "A measure of a curve's local non-planarity. Torsion describes how quickly the curve departs from the curvature plane. Note that it is possible to have curvature without any torsion, if the curve is locally planar, as is the case for circles and spirals, but it is not possible to have torsion without curvature.",
+    "ipa": "ˈtɔː.ʃən",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Torus",
+    "definition": "In [RH], a closed surface defined by a base plane, a major radius and a minor radius. May also be known as \"doughnut\".",
+    "ipa": "ˈtɔːrəs",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Transform",
+    "definition": "See\\: Transformation",
+    "ipa": "",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Transformation Matrix",
+    "definition": "A $4 \\\\times 4$ matrix which describes any combination of transformations.",
+    "ipa": "ˌtrɑːnzfəˈmeɪʃ(ə)n ˈmeɪtrɪks",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Transformation",
+    "definition": "In mathematics and CAD, a change made to a shape in which all straight lines remain straight after the change. No lines are bent, broken or cut. Examples include _translation_, _rotation_, _reflection_ and _dilation_.",
+    "ipa": "ˌtrɑːnzfəˈmeɪʃ(ə)n",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Transit#Graph",
+    "definition": "A graph node which can be both entered and left. Two-way edges count as both incoming and outgoing edges. A transit node connected by only a single two-way edge is called a cul-de-sac.",
+    "ipa": "ˈtræn.zɪt",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Transition Function",
+    "definition": "A ternary function which allows for the smooth transition from one function to another.",
+    "ipa": "tranˈzɪʃ(ə)n ˈfʌŋ(k)ʃ(ə)n",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Translation",
+    "definition": "A geometric transformation where a shape is moved in a single direction for a specified distance.",
+    "ipa": "transˈleɪʃ(ə)n",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Transparency",
+    "definition": "An aspect of colour or material denoting how well one can see through it.",
+    "ipa": "trɑːnˈspar(ə)ns",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Tree",
+    "definition": "The way in which data is stored throughout [GH]. Trees are sorted collections of _twigs_, the ordering of which is determined by their associated _paths_. The twigs contain the actual data, while the paths specify both the sorting order of, and relatedness between twigs.",
+    "ipa": "triː",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Tri",
+    "definition": "See _Triangle_.",
+    "ipa": "trʌɪ",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Triangle",
+    "definition": "A mesh facet connecting three vertices.",
+    "ipa": "ˈtrʌɪaŋɡ(ə)l",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Triangular Distribution",
+    "definition": "A type of continuous distribution with a finite range, where the probability of outcomes increases from zero at the start and end of the range, to maximum at the mode. Mostly used in cases of scarce data and unlikely to represent the results of natural processes.",
+    "ipa": "trʌɪˈaŋɡjʊlə dɪstrɪˈbjuːʃ(ə)n",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Triangulate",
+    "definition": "In geometry, to cover a surface in a patchwork of non-overlapping triangles which together provide a discrete approximation of the underlying surface. If the triangulation is regular, it may be considered a tesselation.",
+    "ipa": "traɪˈæŋ.ɡjə.leɪt",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Triangulation#(1)Points",
+    "definition": "A collection of adjacent triangles whose corners are coincident with a given collection of points, without gaps or overlaps.",
+    "ipa": "trʌɪaŋɡjʊˈleɪʃn",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Triangulation#(2)Surfaces",
+    "definition": "The approximation of a surface with a collection of adjacent triangles, without gaps or overlaps.",
+    "ipa": "trʌɪaŋɡjʊˈleɪʃn",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Trigonometry",
+    "definition": "In mathematics, a field of geometry which studies relationships of angles and lengths in triangles.",
+    "ipa": "ˌtrɪɡəˈnɒmɪtri",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Trim",
+    "definition": "A boundary curve for a surface, used to remove unwanted regions.",
+    "ipa": "trɪm",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Truncated Cone",
+    "definition": "A cone shape with the tip sliced off. Truncated cones have two parallel, circular capping surfaces at the top and the bottom. If the radius of the top and bottom caps are equal, the shape becomes a cylinder.",
+    "ipa": "trʌŋˈkeɪ.tɪd kəʊn",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Tube",
+    "definition": "A primitive surface type in [GH] 2.0, alongside spheres, boxes and planes. Tubes are defined by a central, finite axis, two radii at either end, and a wall thickness, measured inwards. By picking these properties carefully tubes can resemble solid and open cones, solid and open cylinders as well as truncated cones.",
+    "ipa": "tʃuːb",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Turn",
+    "definition": "In geometry, a unit of angle measurement. A full circle equals 1. Turns are most commonly used in programming.",
+    "ipa": "təːn",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Twig",
+    "definition": "In [GH], ordered collections of items. Each item is addressed by an index, starting at zero for the first one. Optional meta data may be associated with the individual items.",
+    "ipa": "twɪɡ",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Twigonometry",
+    "definition": "In [GH], the understanding of and the skill set applied to the analysis and modification of data trees.",
+    "ipa": "ˌtwɪɡəˈnɒmɪtri",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Two-way#Graph",
+    "definition": "A graph edge which allows travel from its start node to its end node and vice versa. One-way edges only allow travel in the forward direction.",
+    "ipa": "ˌtuːˈweɪ",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Type#Data",
+    "definition": "A categorisation of data according to how it is treated by [GH]. This categorisation does not necessarily follow from the contents of the data themselves. E.g. points and vectors both consist of a triplet of numbers, yet they belong to different types. Whether a number triplet is treated as a point or a vector is determined by the type it belongs to.",
+    "ipa": "tʌɪp",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "U-Power Distribution",
+    "definition": "A type of continuous distribution which is only defined between two limit values, and where the values close to the limit are far more likely than those in the middle of the range. Higher $U$ powers push the values further outwards.",
+    "ipa": "juː ˈpaʊə dɪstrɪˈbjuːʃ(ə)n",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Unary#Function",
+    "definition": "A function or operator of arity one, e.g. `cos(x)` or the square root.",
+    "ipa": "ˈjuːnəri",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Uniform Dilation",
+    "definition": "A dilation transformation in which the scaling factor is the same in all directions.",
+    "ipa": "ˈjuːnɪfɔːm dʌɪˈleɪʃ(ə)n",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Uniform Scaling",
+    "definition": "See _Uniform Dilation_.",
+    "ipa": "ˈjuːnɪfɔːm 'skeɪlɪŋ",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Unit Vector",
+    "definition": "A vector with the length of one unit. In mathematical notation, unit vectors will often be denoted with a hat diacritic\\: `û`.",
+    "ipa": "ˈjuːnɪt ˈvɛktə",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Untrim",
+    "definition": "To remove some or all of the custom boundary curves of a trimmed surface, restoring its full, intrinsic shape.",
+    "ipa": "ʌnˈtrɪm",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "URI",
+    "definition": "URIs, or universal resource identifiers, are the most generic ways in which computers locate files or other data. They support both web-based URLs as well as files and directories on local discs.",
+    "ipa": "juː ɑː ʌɪ",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "URL",
+    "definition": "A URL, or uniform resource locator, specifies the location of a resource on a computer network.",
+    "ipa": "juː ɑː ɛl",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Valence",
+    "definition": "The number of times a value appears in a collection, or the number of elements converging in one place.",
+    "ipa": "ˈveɪ·ləns",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Value",
+    "definition": "An instance of a data type. For example _colour_ would be a type, while _purple_ would be a value of that type. An absence of a value is called _null_.",
+    "ipa": "ˈvaljuː",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Variance",
+    "definition": "In statistics, variance describes the expected squared deviation of any value from the mean of a distribution.",
+    "ipa": "ˈveə.ri.əns",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Vector Algebra",
+    "definition": "An extension of numeric algebra which adds vectors and matrices as value types.",
+    "ipa": "ˈvɛktə ˈaldʒɪbrə",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Vector Field",
+    "definition": "A field which associates a three-dimensional vector with every point in space. Can be used e.g. to model velocity of wind or the force of a magnet.",
+    "ipa": "ˈvɛktə fiːld",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Vector Product",
+    "definition": "Multiplication in vector algebra. The two types of vector product are the _cross product_ and the _dot product_.",
+    "ipa": "ˈvɛktə ˈprɒdʌkt",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Vector",
+    "definition": "A direction and magnitude in space. An individual vector is defined by a set of numbers, which denote its length along the principal directions of a coordinate system. Its magnitude is $\\\\left\\\\| v \\\\right\\\\| = \\\\sqrt{x^2 + y^2 + z^2}$.",
+    "ipa": "ˈvɛktə",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Verbose#Logging",
+    "definition": "The most detailed level of logging. All messages are included in the log file.",
+    "ipa": "",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Vertex Colours",
+    "definition": "Colours associated with individual mesh vertices. Not to be confused with material colours.",
+    "ipa": "ˈvəːtɛks ˈkʌləs",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Vertex",
+    "definition": "A single point which is a part of a larger geometrical shape.",
+    "ipa": "ˈvəːtɛks",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Very Large Number",
+    "definition": "A numeric value which exceeds the 1~10 million range can be considered very large and may cause computational issues. Due to the way in which decimal numbers are stored on digital computers, mathematics with big values becomes less accurate. The rounding gaps between possible distinct number values grows as the number magnitude gets bigger, and eventually those gaps will become comparable to the tolerances [RH] uses, compromising reliability of operations.",
+    "ipa": "ˈver.i lɑːdʒ nʌm.bər",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Volatile Data",
+    "definition": "Data which emerges from the [GH] file as it runs. Volatile data does not survive the saving of a file, therefore it must be recomputed every time the file is opened.",
+    "ipa": "ˈvɒlətʌɪl ˈdeɪtə",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Voronoi Cell",
+    "definition": "A single region in a Voronoi partition, consisting of all the points nearest to one seed point. The phrase Voronoi cell may also refer to the boundary of the region, such as a convex polyline in the 2-dimensional case or a convex polyhedron in the 3-dimensional case.",
+    "ipa": "",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Voronoi",
+    "definition": "A partition of space into regions, where each region contains all the points closest to a particular seed point. Unweighted Voronoi partitions consist of a collection of non-overlapping, convex polyhedra, which together fully cover the underlying space.",
+    "ipa": "",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Voxel",
+    "definition": "The three-dimensional analogue of a pixel. I.e. a single value in an orthogonal, volumetric grid of values. Voxels may contain a variety of values, including Booleans, numbers, or colours, depending on the use case at hand.",
+    "ipa": "ˈvɒk.səl",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Warnings",
+    "definition": "In [GH], a category of feedback messages indicating a possible mistake. The operation still yields a result, but possibly not the desired one. Objects with warnings are colour-coded along their top edges.",
+    "ipa": "ˈwɔːnɪŋs",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Wavelength",
+    "definition": "The distance between two adjacent peaks -or throughs- in a wave.  Wavelength is the arithmetic inverse of frequency.",
+    "ipa": "ˈweɪvlɛŋ(k)θ",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Weibull Distribution",
+    "definition": "A type of continuous distribution modelling lifetime expectancy based on failure rates.",
+    "ipa": "ˈwʌɪbʊl dɪstrɪˈbjuːʃ(ə)n",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Weight",
+    "definition": "A property of the control points of NURBS curves and surfaces. When different control points belonging to the same shape have different weights, the final shape is locally pulled towards the control points with higher weights.",
+    "ipa": "weɪt",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "While loop",
+    "definition": "A programming loop which repeats until a specific condition is either fulfilled or violated.",
+    "ipa": "wʌɪl luːp",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Wichmann-Hill '06",
+    "definition": "A pseudorandom number generator in the _Combined Multiplicative Congruential_ algorithm family, published in 2006 by B. A. Wichmann and I.D. Hill, which improves upon their earlier algorithm from 1982.",
+    "ipa": "",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Wichmann-Hill '82",
+    "definition": "A pseudorandom number generator in the _Combined Multiplicative Congruential_ algorithm family, published in 1982 by B. A. Wichmann and I.D. Hill. The purpose of this algorithm was to create pseudorandom sequences with much longer cycles by stacking three regular random generators with differing cycle lengths on top of each other.",
+    "ipa": "",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Widening",
+    "definition": "In computation, a type of data conversion in which no information is lost.",
+    "ipa": "ˈwʌɪd(ə)nɪŋ",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Wigner Semi Circle Distribution",
+    "definition": "A type of continuous distribution with a limited range, where the probabilities of outcomes form the upper half of an ellipse going from the start to the end of the range.",
+    "ipa": "wɪɡnə ˈsɛmɪsəːkl dɪstrɪˈbjuːʃ(ə)n",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Wire",
+    "definition": "The primary mechanism for sharing data amongst different objects in a [GH] file. Wires always connect the output of one parameter with the input of another parameter, thus establishing data inheritance.",
+    "ipa": "wʌɪə",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Wireframe",
+    "definition": "The collection of all curves covering the edges and prominent isocurves of a surface or mesh.",
+    "ipa": "ˈwaɪə.freɪm",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Xarvine",
+    "definition": "The full name of the virtual, red-like colour primary in the `XYZ` colour model. We made this one up.",
+    "ipa": "ˈzɑː.vaɪn",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Xorshift",
+    "definition": "A high performance family of pseudorandom number generators published by G. Marsaglia in 2003. It is the fastest generator in the _Well Equidistributed Long-Period Linear_ algorithm family.",
+    "ipa": "ɛksɔː ʃɪft",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Xoshiro",
+    "definition": "A high quality, high speed pseudorandom number generator. The specific implementation in [GH] is the Xoshiro256**, as published by D. Blackman and S. Vigna in 2018. The algorithm is named after its principal operations eXclusive-Or, Shift and Rotate and represents a different -and generally better- approach to pseudorandom sequences than both the _Linear Congruential_ and _Well Equidistributed Long-Period Linear_ algorithm families.",
+    "ipa": "",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "XYZ#(2)ColourModel",
+    "definition": "A mathematically transformed implementation of the RGB colour model. Instead of the red, green and blue primaries heavily implied by the RGB model, the XYZ colour space defines imaginary primaries called `X`, `Y` and `Z` which are not physically possible. By selecting primaries well outside the scope of all real colours, it becomes possible to represent all humanly visible colours by linearly interpolating the primaries.",
+    "ipa": "'ɛkswʌɪzɛd",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Yank",
+    "definition": "A characteristic of curves and surfaces calculated with the fourth derivative.",
+    "ipa": "jæŋk",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Yimber",
+    "definition": "The full name of the virtual, green-like colour primary in the `XYZ` colour model. We made this one up.",
+    "ipa": "ˈjɪm.bər",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Yxy",
+    "definition": "An implementation of the luma-chroma colour model, strictly speaking defined as a transformation of the `XYZ` colour space. The `Y` axis represents the luminance, while the `x` and `y` axes encode the chrominance aspect of a colour, although not in as obvious a way as the `a` and `b` axes in the `L*a*b*` colour space. When plotted at a constant `Y` value, the `Yxy` space yields what is commonly called the _CIE Chromaticity diagram_.",
+    "ipa": "'wʌɪɛkswʌɪ",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Zipf Distribution",
+    "definition": "A type of discrete distribution describing the ubiquity and rarity of values in a data set. E.g. the frequency of words in a language form a Zipf distribution, with a few words such as \"the\" and \"you\" occurring very frequently, a somewhat larger group of words which occur fairly regularly such as \"chair\" and \"watch\", but with the majority of words being very rare, such as \"sonorous\" or \"latibule\". The frequency of the $k$-th most common value follows\\:",
+    "ipa": "zɪpf dɪstrɪˈbjuːʃ(ə)n",
+    "partOfSpeech": "",
+    "zh": ""
+  },
+  {
+    "english": "Zorn",
+    "definition": "The full name of the virtual, blue-like colour primary in the `XYZ` colour model. We made this one up.",
+    "ipa": "zɔːn",
+    "partOfSpeech": "",
+    "zh": ""
+  }
+]
