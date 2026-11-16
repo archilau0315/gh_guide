@@ -4,6 +4,20 @@
 
 ---
 
+## [2026-11-16] M4 快速上手篇 · 4 节 Markdown 正文
+
+**模块**：`doc/zh/01_quickstart/*.md`、`assets/images/*.jpg`(66 官方截图)
+
+**变更简述**：
+- 写完 dev_plan 第一部分（快速上手）4 节正文：装好就能用 / GH2 vs GH1 差异对照 / 五个必会操作 / 快捷键速查表
+- 从 Rhino 9 安装目录复制 66 张官方截图到 `assets/images/`（后续正文配图用）
+- 建好了完整的 `doc/zh/` 目录树：01_quickstart、03_datatree_meta、04_loop_globals、05_scripting、06_plugin、08_troubleshooting
+- Markdown 正文风格：操作导向、专业但通俗、每个操作配常见坑 + 小技巧
+
+**备注**：M4 正文写完后 dev_plan 里程碑进度 M0→M4 全部完成。剩余 M5-M8 是"手写概念篇"（数据树、循环、脚本、术语表、排错），M9 是检索站收口。后续继续推进。
+
+---
+
 ## [2026-11-16] M4 enrich：本地化图标 + 示例文件 + 中文 zhName
 
 **模块**：`tools/enrich.js`、`site/assets/icons/*.png`(1416)、`site/examples/*.ghz`(204)、`data/components_full.json`(更新 zhName)、`site/app.js`(路径修复)
