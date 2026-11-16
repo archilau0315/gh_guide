@@ -16,7 +16,10 @@
 - 本机无 gh CLI，改用凭据管理器取 GitHub token 调 REST API 建私有仓库，成功
 - GitHub SSH 免密正常，44 MB / 3694 文件 / 15 commits 一次推送完成
 
-**阻塞**：Gitee 建仓库必须有「私人令牌」（access_token）。凭据管理器里存的是账号密码（10 位），Gitee API v5 不接受密码，Basic 认证同样 401。需在 Gitee 网页新建空仓库 `gh_guide`，或提供私人令牌后由脚本建库并推送。
+**结果**：Gitee 仓库由平台镜像自动同步 GitHub，不再从本地直接推送。
+- 工作流固定为：`git push origin master`（GitHub），Gitee 侧自动拉取
+- 已知环境问题：本机 DNS 把 `gitee.com` 解析到 `gitee.com-31ba39d0fd3.baiduads.com`（DNS 污染），HTTPS 握手直接失败（`TLS connect error: unexpected eof`），公共 DNS 查询结果同样被污染；Gitee SSH 未配公钥。因此本地无法直连 Gitee，走镜像更省事
+- 服务器 `47.93.210.248` 访问 gitee 正常（首页 200），但服务器未装 git，故不走服务器中转
 
 ---
 
