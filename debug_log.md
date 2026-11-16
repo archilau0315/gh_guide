@@ -4,6 +4,25 @@
 
 ---
 
+## [2026-11-16] M2 进行中 · 端口爬虫验证通过, 全量爬取后台运行
+
+**模块**：`tools/crawl-ports.js`、`tools/match-icons.js`、`data/components_with_icons.json`、`data/components_full.json`(partial)
+
+**变更简述**：
+- 正则解析官方详情页 HTML 中的 `.param-tip` 块，提取端口名、方向（input/output）、facts（类型·访问策略）、描述、required 标志
+- 在 5 个组件样本上验证 100% 正确，全量爬虫已启动（1416 页 × 2 req/s ≈ 12 分钟）
+- icon 匹配脚本 `match-icons.js` 仅 12.4% 匹配率（175/1416），说明 `.ghicon` 是工具栏图标而非组件预览图
+- **更好的 icon 方案**：官方详情页 `<img src="../images/obj=<GUID>.png">` 是每个组件独有的大电池预览图，比 .ghicon 更适合速查手册
+
+**发现的关键坑**：
+- 正则匹配嵌套 `<span>` 时非贪婪会在第一个 `</span>` 处停住（param-facts 的闭合），导致 param-tip 块截半；**改用直接匹配 `<span class="param-tip">...</span>` 块**（其内部不再有嵌套的 param-tip span）即可正确提取
+- `.param-facts` 里的 `&#183;` 是中点分隔符，需替换成 `·`
+- 1416 组件中并不是每个都有端口数据（少数是纯参数/对象/装饰组件）
+
+**备注**：爬虫后台运行中，跑完全量后写 components_full.json 并 git commit。
+
+---
+
 ## [2026-11-16] M0 里程碑达成 · 1971 张原厂图标全量导出
 
 **模块**：`tools/export_icons.py`、`tools/diag3.py`~`diag6.py`、`tools/diagnose.py`、`tools/diagnose2.py`、`tools/diag_batch.py`、`tools/diag_batch2.py`、`assets/icons/{24,48,96}/*.png`、`data/icon_map.json`
