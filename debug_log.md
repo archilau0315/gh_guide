@@ -4,6 +4,29 @@
 
 ---
 
+## [2026-11-16] 构图优化 · 左右适当留白
+
+**模块**：`site/style.css`
+
+**变更简述**：统一整体限宽 + 居中策略，修复大屏幕下左右留白不一致问题。
+
+| 元素 | 旧值 | 新值 |
+|---|---|---|
+| `.topbar` | `max-width:1400px; margin:0 auto` | 移除（全宽背景，视觉锚定） |
+| `.topbar padding` | `0 20px` | `0 24px` |
+| `.layout` | `justify-content:center` 散居中 | `max-width:1400px; margin:0 auto; padding:0 24px` 整体限宽居中 |
+| `.layout > *` | `max-width:1400px`（对子元素无意义） | 移除 |
+| `.content` | `padding:28px 40px; max-width:calc(1400-210)` | `padding:28px 24px; min-width:0`（父级已限宽） |
+
+**效果**：
+- 大屏（>1400px）：topbar 背景铺满全宽，layout (sidebar+content) 居中限宽 1400px，两侧自然留白
+- 小屏（≤1400px）：layout 全宽，内部 24px padding 提供呼吸空间
+- sidebar 左侧、content 右侧各 24px 内边距，配合整体居中，构图呼吸感良好
+
+**备注**：纯 CSS 改动，零 HTML/JS 变更。浏览器验证 1074px 视口下 sidebar 210 + padding 48 + content 816 = 1074 ✅
+
+---
+
 ## [2026-11-16] M4 快速上手篇 · 4 节 Markdown 正文
 
 **模块**：`doc/zh/01_quickstart/*.md`、`assets/images/*.jpg`(66 官方截图)
