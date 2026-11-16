@@ -271,7 +271,7 @@
         </div>
         <div class="modal-title-block">
           <h2>${zhName ? zhName + ' <small>(' + c.name + ')</small>' : c.name}</h2>
-          <div class="modal-breadcrumb">${c.cat1}${c.cat2 ? ' › ' + c.cat2 : ''} · ${c.id32.slice(0, 8)}</div>
+          <div class="modal-breadcrumb">${c.cat1}${c.cat2 ? ' › ' + c.cat2 : ''} · <span class="guid" title="GUID: ${c.id}">${c.id32.slice(-8)}</span></div>
           <div class="modal-links">
             <a href="${c.url}" target="_blank">官方文档 ↗</a>
             ${examplesHtml}
