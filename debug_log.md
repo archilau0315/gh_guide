@@ -4,6 +4,32 @@
 
 ---
 
+## [2026-11-16] M0 里程碑达成 · 1971 张原厂图标全量导出
+
+**模块**：`tools/export_icons.py`、`tools/diag3.py`~`diag6.py`、`tools/diagnose.py`、`tools/diagnose2.py`、`tools/diag_batch.py`、`tools/diag_batch2.py`、`assets/icons/{24,48,96}/*.png`、`data/icon_map.json`
+
+**变更简述**：历时 7 轮诊断脚本迭代，终于打通 GH2 `.ghicon` → PNG 的完整链路。踩坑过程极其艰辛，记录如下：
+
+**发现的关键坑**：
+1. `clr.AddReference` 必须传短名 `"Grasshopper2"`，传完整路径 IronPython 2 会抛 `FileLoadException: The given assembly name was invalid`
+2. 反射 `Invoke` 参数必须用 `System.Array[object]([args])`，传 Python list 会报 `expected Array[object], got list`
+3. 组件基类名变了：GH2 里没有 `GH_Component`，正确入口是 `Grasshopper2.Components.Component` 抽象基类 + `Grasshopper2.Interop.IGH_Component` 接口；但 `Activator.CreateInstance` 初始化出来的对象属性全空（Name/Category/Description 等都需要 GH2 画布上下文才填充），**正式组件列表不应该反射拿，后续从官方详情页抓**
+4. `.ghicon` 是私有格式但可被 `AbstractIcon.FromStream(stream)` 解析，返回 `VectorIcon` / `SvgIcon` 等子类实例
+5. `DrawToBitmap` 返回的是 **`Eto.Drawing.Bitmap`**，不是 `System.Drawing.Bitmap`
+6. `Eto.Drawing.Bitmap.Save(path)` 在 IronPython 2 里**静默失败**——不报错但文件不存在；`Save(ms)` 只传 MemoryStream 也会报 `Save() takes exactly 2 arguments`
+7. 正确保存方式：`eto.Save(memoryStream, Eto.Drawing.ImageFormat.Png)` → 用 `memoryStream` 构造 `System.Drawing.Bitmap` → `sd.Save(path, Png)`
+
+**产出**：
+- 1971 张 PNG（24px: 657, 48px: 658, 96px: 656），3.02 MB，部分图标在某些尺寸下渲染失败属正常现象
+- `data/icon_map.json`：资源名 → 本地路径映射
+- `data/gh2_types.json`：反射出来的 27 个内部测试组件（后续会被官方数据覆盖）
+
+**新建诊断脚本（可删除）**：`diagnose.py`、`diagnose2.py`、`diag3.py`、`diag4.py`、`diag5.py`、`diag6.py`、`diag_batch.py`、`diag_batch2.py`
+
+**备注**：M0 里程碑完成。下一步 M2 组件详情抓取（端口、分类、描述等），M3 生成静态站点。
+
+---
+
 ## [2026-11-16] 开工 · M1 数据骨架完成 + M0 导出脚本就绪
 
 **模块**：`tools/parse-index.js`、`tools/export_icons.py`、`data/*.json`、`tools/gh2-index.html`  
