@@ -4,6 +4,22 @@
 
 ---
 
+## [2026-11-16] 接入远程仓库：GitHub + Gitee 镜像
+
+**模块**：`.git/config`
+
+**变更简述**：
+- `origin` → `git@github.com:archilau0315/gh_guide.git`（SSH，已建私有仓库并推送 master）
+- `gitee` → `https://gitee.com/archilau/gh_guide.git`（仅加 remote，待仓库建成后推送）
+
+**过程**：
+- 本机无 gh CLI，改用凭据管理器取 GitHub token 调 REST API 建私有仓库，成功
+- GitHub SSH 免密正常，44 MB / 3694 文件 / 15 commits 一次推送完成
+
+**阻塞**：Gitee 建仓库必须有「私人令牌」（access_token）。凭据管理器里存的是账号密码（10 位），Gitee API v5 不接受密码，Basic 认证同样 401。需在 Gitee 网页新建空仓库 `gh_guide`，或提供私人令牌后由脚本建库并推送。
+
+---
+
 ## [2026-11-16] 修复：组件详情弹窗左右无内边距
 
 **模块**：`site/index.html`、`site/style.css`
