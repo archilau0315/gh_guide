@@ -4,6 +4,26 @@
 
 ---
 
+## [2026-11-16] M4 enrich：本地化图标 + 示例文件 + 中文 zhName
+
+**模块**：`tools/enrich.js`、`site/assets/icons/*.png`(1416)、`site/examples/*.ghz`(204)、`data/components_full.json`(更新 zhName)、`site/app.js`(路径修复)
+
+**变更简述**：
+- 批量下载官方组件预览图 `obj=GUID.png`（带破折号的完整 GUID！之前爬虫用了去掉破折号的 id32 导致全 404）到 `site/assets/icons/`
+- 从 Rhino 安装目录 `Example Files/` 复制 204 个 .ghz 到 `site/examples/`，弹窗里点"示例文件"直接下载
+- 内置中文词库 + 精确匹配表，为 1090/1416 (77%) 组件生成了 zhName
+- 修复 app.js 里 `../assets/icons/` → `assets/icons/`、`../examples/` → `examples/` 的路径 bug（浏览器验证 3/3 PASS）
+- 卡片和详情弹窗优先用本地化图标，失败 fallback 到 CDN
+
+**踩的坑**：
+- 官方图片 URL 必须用**带破折号的完整 GUID** `00000000-1959-4327-a3d8-bd076425d3bf`，不是 32 位无破折号 id32
+- 本地示例目录叫 `Example Files`（带空格，不是 `Files`）
+- app.js 里相对路径 `../` 是从 HTML 文件位置算的，不是从 server root 算——`site/index.html` 里用 `../data/` 能拿到根目录 data（因为 `site/../` = 根目录），但 `../assets/icons/` 会解析成根目录 `assets/icons/`（不存在），应该用 `assets/icons/`
+
+**备注**：站点现在 **零外部依赖**（图标和示例全本地化，只有组件描述文本和术语链接需要在线）。
+
+---
+
 ## [2026-11-16] M2 进行中 · 端口爬虫验证通过, 全量爬取后台运行
 
 **模块**：`tools/crawl-ports.js`、`tools/match-icons.js`、`data/components_with_icons.json`、`data/components_full.json`(partial)

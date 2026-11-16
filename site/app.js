@@ -13,8 +13,10 @@
 
   // ====== 常量 ======
   const DATA_URL = '../data/components_full.json';
+  const LOCAL_ICON = (id) => `assets/icons/${id}.png`;
   const OFFICIAL_IMG = (guid) =>
     `https://www.rhino3d.com/docs/grasshopper2/images/obj=${guid}.png`;
+  const EXAMPLE_URL = (fname) => `examples/${fname}`;
 
   // ====== 初始化 ======
   async function init() {
@@ -225,17 +227,18 @@
   }
 
   function renderCard(c) {
-    const img = OFFICIAL_IMG(c.id32);
+    const img = LOCAL_ICON(c.id);
     const shortCat = c.cat2 ? `${c.cat1} · ${c.cat2}` : c.cat1;
     const inputCount = (c.inputs || []).length;
     const outputCount = (c.outputs || []).length;
+    const displayName = c.zhName ? `${c.zhName} <span style="color:#8a8aa0;font-size:11px">${c.name}</span>` : c.name;
     return `
       <div class="card" onclick="window._gh.openDetail('${c.id}')">
         <div class="card-icon">
           <img src="${img}" alt="${c.name}" loading="lazy"
-               onerror="this.style.display='none';this.parentNode.innerHTML='${shortCat.slice(0, 16)}'">
+               onerror="this.onerror=null;this.src='${OFFICIAL_IMG(c.id)}'">
         </div>
-        <div class="card-name">${c.name}</div>
+        <div class="card-name">${displayName}</div>
         <div class="card-cat">${shortCat}${inputCount ? ` · ${inputCount}→${outputCount}` : ''}</div>
       </div>
     `;
@@ -248,22 +251,27 @@
 
     const modal = document.getElementById('modal');
     const body = document.getElementById('modal-body');
-    const img = OFFICIAL_IMG(c.id32);
+    const localImg = LOCAL_ICON(c.id);
+    const officialImg = OFFICIAL_IMG(c.id);
+    const zhName = c.zhName;
     const hasInputs = (c.inputs || []).length > 0;
     const hasOutputs = (c.outputs || []).length > 0;
+    const examplesHtml = (c.examples && c.examples.length)
+      ? c.examples.map(ex => `<a href="${EXAMPLE_URL(ex)}" download>示例文件 ${ex} ↓</a>`).join(' · ')
+      : '';
 
     body.innerHTML = `
       <div class="modal-header">
         <div class="modal-icon">
-          <img src="${img}" alt="${c.name}"
-               onerror="this.style.display='none'">
+          <img src="${localImg}" alt="${c.name}"
+               onerror="this.onerror=null;this.src='${officialImg}'">
         </div>
         <div class="modal-title-block">
-          <h2>${c.name}</h2>
+          <h2>${zhName ? zhName + ' <small>(' + c.name + ')</small>' : c.name}</h2>
           <div class="modal-breadcrumb">${c.cat1}${c.cat2 ? ' › ' + c.cat2 : ''} · ${c.id32.slice(0, 8)}</div>
           <div class="modal-links">
             <a href="${c.url}" target="_blank">官方文档 ↗</a>
-            ${c.examples && c.examples.length ? `<a href="${c.url.replace('.html', '')}.ghz" target="_blank">示例文件 ↗</a>` : ''}
+            ${examplesHtml}
           </div>
         </div>
       </div>
