@@ -4,6 +4,23 @@
 
 ---
 
+## [2026-11-16] 上线部署 + 站点封面
+
+**模块**：`cover.svg`（新）、服务器 `/www/wwwroot/kbitai.com.cn/resources/AC_Tutorial/gh_guide/`
+
+**变更简述**：
+- 新增 300×300 矢量封面 `cover.svg`：深青渐变（#0c8599 → #0d1117）+ 参数化节点连线 + GH² 标识，供主站资源页展示卡使用
+- 手册首次部署到主站：`site/` + `data/` 共 1631 文件 42.4 MB，本地打包 `tar.gz`（36 MB）后上传解包，比逐文件 scp 快得多
+- 主站入口：右上角「资源」下拉 + 资源页展示卡，均指向 `/resources/AC_Tutorial/gh_guide/site/index.html`
+
+**踩的坑**：
+- `ssh/scp Archilau-kbitai@47.93.210.248` 未配免密，非交互执行会一直等密码输入 → 超时。服务器上 `root@` 已配免密，改用它即可
+- 部署后必须 `chown -R www:www`，否则 Nginx 读不了文件
+
+**验证**：线上主页、资源页、`site/index.html`、`style.css`、`app.js`、`data/components_full.json`、`cover.svg`、组件图标 PNG、示例 `.ghz` 全部 200。
+
+---
+
 ## [2026-11-16] 构图优化 · 左右适当留白
 
 **模块**：`site/style.css`
