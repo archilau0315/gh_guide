@@ -349,6 +349,7 @@ body {
   text-decoration: none; margin-right: 12px;
 }
 .modal-links a:hover { text-decoration: underline; }
+.modal-note { font-size: 12px; color: var(--text-dim); }
 
 .modal-section { margin-bottom: 20px; }
 .modal-section h3 {

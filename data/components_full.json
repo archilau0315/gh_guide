@@ -312,7 +312,9 @@
       }
     ],
     "description": "Compute the curvature magnitude and direction at a locus along a curve.",
-    "examples": [],
+    "examples": [
+      "CurveCurvature.ghz"
+    ],
     "zhName": "曲线曲率",
     "zhDescription": ""
   },
@@ -535,7 +537,9 @@
       }
     ],
     "description": "Get the start and end tangent vectors of a curve. Every curve in Rhinoceros and Grasshopper has exactly one start and one end tangent.",
-    "examples": [],
+    "examples": [
+      "CurveEndTangents.ghz"
+    ],
     "zhName": "曲线端点切线",
     "zhDescription": ""
   },
@@ -1136,7 +1140,9 @@
       }
     ],
     "description": "⚠️ This content is auto-generated.",
-    "examples": [],
+    "examples": [
+      "EvaluateAtLength.ghz"
+    ],
     "zhName": "evaluate 在 长度",
     "zhDescription": ""
   },
@@ -1600,7 +1606,9 @@
       }
     ],
     "description": "⚠️ This content is auto-generated.",
-    "examples": [],
+    "examples": [
+      "PickCurve.ghz"
+    ],
     "zhName": "pick 曲线",
     "zhDescription": ""
   },
@@ -3976,7 +3984,9 @@
       }
     ],
     "description": "Compute the osculating circle at a specific location on a curve. An osculating circle shares the location, tangent direction, and curvature of the underlying curve at the specified locus. As such, it can be thought of as a higher order tangent line.",
-    "examples": [],
+    "examples": [
+      "OsculatingCircle.ghz"
+    ],
     "zhName": "osculating 圆",
     "zhDescription": ""
   },
@@ -5262,7 +5272,9 @@
       }
     ],
     "description": "Create a blend curve connecting the end of one guide curve to the start of another. This component offers no control over the blend other than the continuity constraints in input Bc, which are shown in the table below. The resulting blend's bulge factors are hard-coded to 1.",
-    "examples": [],
+    "examples": [
+      "BlendCurve.ghz"
+    ],
     "zhName": "blend 曲线",
     "zhDescription": ""
   },
@@ -5322,7 +5334,9 @@
       }
     ],
     "description": "Create a smooth blend curve which connects the end of one guide curve to the start of another, using custom bulge factors and continuity.",
-    "examples": [],
+    "examples": [
+      "BlendCurveCustom.ghz"
+    ],
     "zhName": "blend 曲线 custom",
     "zhDescription": ""
   },
@@ -5375,7 +5389,9 @@
       }
     ],
     "description": "⚠️ This content is auto-generated.",
-    "examples": [],
+    "examples": [
+      "BlendThroughPoint.ghz"
+    ],
     "zhName": "blend 穿过 点",
     "zhDescription": ""
   },
@@ -5435,7 +5451,9 @@
       }
     ],
     "description": "Create blend curves connecting a sequence of guide curves. This component outputs both the fully joined result, as well as the individual connecting blend curves.",
-    "examples": [],
+    "examples": [
+      "ConnectCurves.ghz"
+    ],
     "zhName": "connect 曲线",
     "zhDescription": ""
   },
@@ -6055,7 +6073,9 @@
       }
     ],
     "description": "⚠️ This content is auto-generated.",
-    "examples": [],
+    "examples": [
+      "FilletAll.ghz"
+    ],
     "zhName": "",
     "zhDescription": ""
   },
@@ -6175,7 +6195,9 @@
       }
     ],
     "description": "⚠️ This content is auto-generated.",
-    "examples": [],
+    "examples": [
+      "FilletCurve.ghz"
+    ],
     "zhName": "fillet 曲线",
     "zhDescription": ""
   },
@@ -7730,7 +7752,9 @@
       }
     ],
     "description": "⚠️ This content is auto-generated.",
-    "examples": [],
+    "examples": [
+      "CircleExTangents.ghz"
+    ],
     "zhName": "圆 ex 切线",
     "zhDescription": ""
   },
@@ -7776,7 +7800,9 @@
       }
     ],
     "description": "⚠️ This content is auto-generated.",
-    "examples": [],
+    "examples": [
+      "CircleInTangents.ghz"
+    ],
     "zhName": "圆 in 切线",
     "zhDescription": ""
   },
@@ -7953,7 +7979,9 @@
       }
     ],
     "description": "⚠️ This content is auto-generated.",
-    "examples": [],
+    "examples": [
+      "Line2Planes.ghz"
+    ],
     "zhName": "直线 2 平面",
     "zhDescription": ""
   },
@@ -11655,7 +11683,9 @@
       }
     ],
     "description": "⚠️ This content is auto-generated.",
-    "examples": [],
+    "examples": [
+      "BracketList.ghz"
+    ],
     "zhName": "bracket 列表",
     "zhDescription": ""
   },
@@ -12151,7 +12181,9 @@
       }
     ],
     "description": "⚠️ This content is auto-generated.",
-    "examples": [],
+    "examples": [
+      "LongestList.ghz"
+    ],
     "zhName": "longest 列表",
     "zhDescription": ""
   },
@@ -12243,7 +12275,9 @@
       }
     ],
     "description": "⚠️ This content is auto-generated.",
-    "examples": [],
+    "examples": [
+      "Permutations.ghz"
+    ],
     "zhName": "",
     "zhDescription": ""
   },
@@ -12335,7 +12369,9 @@
       }
     ],
     "description": "Create a new list by repeating the items in an existing list a fixed number of times. Items are repeated individually, i.e. the first item in the existing list occurs N times in the output list before the second item appears.",
-    "examples": [],
+    "examples": [
+      "RepeatItems.ghz"
+    ],
     "zhName": "重复项",
     "zhDescription": ""
   },
@@ -12724,7 +12760,9 @@
       }
     ],
     "description": "⚠️ This content is auto-generated.",
-    "examples": [],
+    "examples": [
+      "SplitList.ghz"
+    ],
     "zhName": "分割列表",
     "zhDescription": ""
   },
@@ -12763,7 +12801,9 @@
       }
     ],
     "description": "⚠️ This content is auto-generated.",
-    "examples": [],
+    "examples": [
+      "StackItems.ghz"
+    ],
     "zhName": "stack 项",
     "zhDescription": ""
   },
@@ -13629,7 +13669,9 @@
       }
     ],
     "description": "⚠️ This content is auto-generated.",
-    "examples": [],
+    "examples": [
+      "CreateMetaDatum.ghz"
+    ],
     "zhName": "创建 元 datum",
     "zhDescription": ""
   },
@@ -13691,7 +13733,9 @@
     "inputs": [],
     "outputs": [],
     "description": "⚠️ This content is auto-generated.",
-    "examples": [],
+    "examples": [
+      "DisplayProperties.ghz"
+    ],
     "zhName": "显示 properties",
     "zhDescription": ""
   },
@@ -15407,7 +15451,9 @@
       }
     ],
     "description": "⚠️ This content is auto-generated.",
-    "examples": [],
+    "examples": [
+      "CreateSet.ghz"
+    ],
     "zhName": "创建集合",
     "zhDescription": ""
   },
@@ -15687,7 +15733,9 @@
       }
     ],
     "description": "⚠️ This content is auto-generated.",
-    "examples": [],
+    "examples": [
+      "SetExclusion.ghz"
+    ],
     "zhName": "集合 exclusion",
     "zhDescription": ""
   },
@@ -15726,7 +15774,9 @@
       }
     ],
     "description": "⚠️ This content is auto-generated.",
-    "examples": [],
+    "examples": [
+      "SetIntersection.ghz"
+    ],
     "zhName": "集合交集",
     "zhDescription": ""
   },
@@ -15811,7 +15861,9 @@
       }
     ],
     "description": "⚠️ This content is auto-generated.",
-    "examples": [],
+    "examples": [
+      "SetSubtraction.ghz"
+    ],
     "zhName": "集合 subtraction",
     "zhDescription": ""
   },
@@ -17412,7 +17464,9 @@
       }
     ],
     "description": "⚠️ This content is auto-generated.",
-    "examples": [],
+    "examples": [
+      "CurvatureGraph.ghz"
+    ],
     "zhName": "曲率图形",
     "zhDescription": ""
   },
@@ -18000,7 +18054,9 @@
       }
     ],
     "description": "⚠️ This content is auto-generated.",
-    "examples": [],
+    "examples": [
+      "ThicknessDisplay.ghz"
+    ],
     "zhName": "thickness 显示",
     "zhDescription": ""
   },
@@ -18330,7 +18386,9 @@
       }
     ],
     "description": "⚠️ This content is auto-generated.",
-    "examples": [],
+    "examples": [
+      "ColourDistance.ghz"
+    ],
     "zhName": "颜色距离",
     "zhDescription": ""
   },
@@ -18429,7 +18487,9 @@
       }
     ],
     "description": "⚠️ This content is auto-generated.",
-    "examples": [],
+    "examples": [
+      "ColourFromField.ghz"
+    ],
     "zhName": "颜色 从 field",
     "zhDescription": ""
   },
@@ -18588,7 +18648,9 @@
       }
     ],
     "description": "⚠️ This content is auto-generated.",
-    "examples": [],
+    "examples": [
+      "ColourFromHsp.ghz"
+    ],
     "zhName": "颜色 从 hsp",
     "zhDescription": ""
   },
@@ -18634,7 +18696,9 @@
       }
     ],
     "description": "⚠️ This content is auto-generated.",
-    "examples": [],
+    "examples": [
+      "ColourFromHsv.ghz"
+    ],
     "zhName": "颜色 从 hsv",
     "zhDescription": ""
   },
@@ -18680,7 +18744,9 @@
       }
     ],
     "description": "⚠️ This content is auto-generated.",
-    "examples": [],
+    "examples": [
+      "ColourFromLab.ghz"
+    ],
     "zhName": "颜色 从 lab",
     "zhDescription": ""
   },
@@ -18726,7 +18792,9 @@
       }
     ],
     "description": "⚠️ This content is auto-generated.",
-    "examples": [],
+    "examples": [
+      "ColourFromRgb.ghz"
+    ],
     "zhName": "颜色 从 rgb",
     "zhDescription": ""
   },
@@ -18772,7 +18840,9 @@
       }
     ],
     "description": "⚠️ This content is auto-generated.",
-    "examples": [],
+    "examples": [
+      "ColourFromXyz.ghz"
+    ],
     "zhName": "颜色 从 xyz",
     "zhDescription": ""
   },
@@ -18818,7 +18888,9 @@
       }
     ],
     "description": "⚠️ This content is auto-generated.",
-    "examples": [],
+    "examples": [
+      "ColourFromYxy.ghz"
+    ],
     "zhName": "颜色 从 yxy",
     "zhDescription": ""
   },
@@ -18956,7 +19028,9 @@
       }
     ],
     "description": "⚠️ This content is auto-generated.",
-    "examples": [],
+    "examples": [
+      "ColourToHsp.ghz"
+    ],
     "zhName": "颜色 到 h*sp",
     "zhDescription": ""
   },
@@ -19055,7 +19129,9 @@
       }
     ],
     "description": "⚠️ This content is auto-generated.",
-    "examples": [],
+    "examples": [
+      "ColourToHsv.ghz"
+    ],
     "zhName": "颜色 到 hsv",
     "zhDescription": ""
   },
@@ -19101,7 +19177,9 @@
       }
     ],
     "description": "⚠️ This content is auto-generated.",
-    "examples": [],
+    "examples": [
+      "ColourToLab.ghz"
+    ],
     "zhName": "颜色 到 lab",
     "zhDescription": ""
   },
@@ -19285,7 +19363,9 @@
       }
     ],
     "description": "⚠️ This content is auto-generated.",
-    "examples": [],
+    "examples": [
+      "ModifyTransparency.ghz"
+    ],
     "zhName": "",
     "zhDescription": ""
   },
@@ -19482,7 +19562,9 @@
       }
     ],
     "description": "⚠️ This content is auto-generated.",
-    "examples": [],
+    "examples": [
+      "GradientFromFunctions.ghz"
+    ],
     "zhName": "渐变从函数",
     "zhDescription": ""
   },
@@ -21898,7 +21980,9 @@
       }
     ],
     "description": "⚠️ This content is auto-generated.",
-    "examples": [],
+    "examples": [
+      "CollideList.ghz"
+    ],
     "zhName": "collide 列表",
     "zhDescription": ""
   },
@@ -25466,7 +25550,9 @@
       }
     ],
     "description": "⚠️ This content is auto-generated.",
-    "examples": [],
+    "examples": [
+      "IsovistRay.ghz"
+    ],
     "zhName": "",
     "zhDescription": ""
   },
@@ -25579,7 +25665,9 @@
       }
     ],
     "description": "⚠️ This content is auto-generated.",
-    "examples": [],
+    "examples": [
+      "PipeContainment.ghz"
+    ],
     "zhName": "管道 containment",
     "zhDescription": ""
   },
@@ -28543,7 +28631,9 @@
       }
     ],
     "description": "⚠️ This content is auto-generated.",
-    "examples": [],
+    "examples": [
+      "Multiplication.ghz"
+    ],
     "zhName": "",
     "zhDescription": ""
   },
@@ -29074,7 +29164,9 @@
       }
     ],
     "description": "⚠️ This content is auto-generated.",
-    "examples": [],
+    "examples": [
+      "RandomAvoidance.ghz"
+    ],
     "zhName": "随机 avoidance",
     "zhDescription": ""
   },
@@ -29318,7 +29410,9 @@
       }
     ],
     "description": "⚠️ This content is auto-generated.",
-    "examples": [],
+    "examples": [
+      "RandomEngine.ghz"
+    ],
     "zhName": "随机 engine",
     "zhDescription": ""
   },
@@ -29460,7 +29554,9 @@
       }
     ],
     "description": "⚠️ This content is auto-generated.",
-    "examples": [],
+    "examples": [
+      "RandomNumberTree.ghz"
+    ],
     "zhName": "随机数值数据树",
     "zhDescription": ""
   },
@@ -29506,7 +29602,9 @@
       }
     ],
     "description": "⚠️ This content is auto-generated.",
-    "examples": [],
+    "examples": [
+      "RandomNumbers.ghz"
+    ],
     "zhName": "随机数值",
     "zhDescription": ""
   },
@@ -31545,7 +31643,9 @@
       }
     ],
     "description": "⚠️ This content is auto-generated.",
-    "examples": [],
+    "examples": [
+      "BlurNumbers.ghz"
+    ],
     "zhName": "blur 数值",
     "zhDescription": ""
   },
@@ -35746,7 +35846,9 @@
       }
     ],
     "description": "⚠️ This content is auto-generated.",
-    "examples": [],
+    "examples": [
+      "FindRoute.ghz"
+    ],
     "zhName": "",
     "zhDescription": ""
   },
@@ -35958,7 +36060,9 @@
       }
     ],
     "description": "⚠️ This content is auto-generated.",
-    "examples": [],
+    "examples": [
+      "GraphFromCurves.ghz"
+    ],
     "zhName": "图形从曲线",
     "zhDescription": ""
   },
@@ -36740,7 +36844,9 @@
       }
     ],
     "description": "⚠️ This content is auto-generated.",
-    "examples": [],
+    "examples": [
+      "TravelCosts.ghz"
+    ],
     "zhName": "",
     "zhDescription": ""
   },
@@ -40679,7 +40785,9 @@
     "inputs": [],
     "outputs": [],
     "description": "⚠️ This content is auto-generated.",
-    "examples": [],
+    "examples": [
+      "NumberLine.ghz"
+    ],
     "zhName": "",
     "zhDescription": ""
   },
@@ -42531,7 +42639,9 @@
       }
     ],
     "description": "⚠️ This content is auto-generated.",
-    "examples": [],
+    "examples": [
+      "LocusFromUV.ghz"
+    ],
     "zhName": "locus 从 uv",
     "zhDescription": ""
   },
@@ -42637,7 +42747,9 @@
       }
     ],
     "description": "⚠️ This content is auto-generated.",
-    "examples": [],
+    "examples": [
+      "PrincipalCurvatures.ghz"
+    ],
     "zhName": "principal 曲率",
     "zhDescription": ""
   },
@@ -42913,7 +43025,9 @@
       }
     ],
     "description": "⚠️ This content is auto-generated.",
-    "examples": [],
+    "examples": [
+      "SurfaceCurvature.ghz"
+    ],
     "zhName": "曲面曲率",
     "zhDescription": ""
   },
@@ -58061,7 +58175,9 @@
       }
     ],
     "description": "⚠️ This content is auto-generated.",
-    "examples": [],
+    "examples": [
+      "VectorSampleField.ghz"
+    ],
     "zhName": "向量 sample field",
     "zhDescription": ""
   },
@@ -62338,7 +62454,9 @@
       }
     ],
     "description": "⚠️ This content is auto-generated.",
-    "examples": [],
+    "examples": [
+      "CirclesOnSphere.ghz"
+    ],
     "zhName": "圆 on 球体",
     "zhDescription": ""
   },
@@ -63164,7 +63282,9 @@
       }
     ],
     "description": "⚠️ This content is auto-generated.",
-    "examples": [],
+    "examples": [
+      "RadialGrid.ghz"
+    ],
     "zhName": "",
     "zhDescription": ""
   },
@@ -63231,7 +63351,9 @@
       }
     ],
     "description": "⚠️ This content is auto-generated.",
-    "examples": [],
+    "examples": [
+      "RectangleGrid.ghz"
+    ],
     "zhName": "矩形 grid",
     "zhDescription": ""
   },
@@ -63298,7 +63420,9 @@
       }
     ],
     "description": "⚠️ This content is auto-generated.",
-    "examples": [],
+    "examples": [
+      "RectanglePattern.ghz"
+    ],
     "zhName": "矩形 pattern",
     "zhDescription": ""
   },
@@ -63487,7 +63611,9 @@
       }
     ],
     "description": "⚠️ This content is auto-generated.",
-    "examples": [],
+    "examples": [
+      "TrianglePattern.ghz"
+    ],
     "zhName": "",
     "zhDescription": ""
   },

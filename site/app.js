@@ -258,7 +258,7 @@
     const hasOutputs = (c.outputs || []).length > 0;
     const examplesHtml = (c.examples && c.examples.length)
       ? c.examples.map(ex => `<a href="${EXAMPLE_URL(ex)}" download>示例文件 ${ex} ↓</a>`).join(' · ')
-      : '';
+      : '<span class="modal-note">官方未提供示例文件</span>';
 
     body.innerHTML = `
       <div class="modal-header">
