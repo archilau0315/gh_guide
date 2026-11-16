@@ -306,6 +306,7 @@ body {
 .modal-header {
   display: flex; gap: 20px; align-items: flex-start;
   margin-bottom: 24px;
+  padding-right: 36px; /* 给右上角关闭按钮让位 */
 }
 .modal-icon {
   width: 80px; height: 80px;

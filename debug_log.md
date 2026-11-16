@@ -4,6 +4,22 @@
 
 ---
 
+## [2026-11-16] 修复：组件详情弹窗左右无内边距
+
+**模块**：`site/index.html`、`site/style.css`
+
+**根因**：CSS 里早就写了 `.modal-body { padding: 28px; }`，但 HTML 容器只写了 `id="modal-body"`，**漏了 `class="modal-body"`**。ID 选择器不匹配类选择器，样式从未生效，弹窗内容直接顶到卡片左右边缘——这就是"两端没有留白、构图难看"的真实原因，不是 CSS 写错。
+
+**修复**：
+1. `<div id="modal-body">` → `<div id="modal-body" class="modal-body">`
+2. `.modal-header` 加 `padding-right: 36px`，给右上角绝对定位的关闭按钮让位，避免长标题被 `×` 压住
+
+**验证**：已上传服务器并检查线上文件含 `class="modal-body"` 与 `padding-right: 36px`，`chown www:www` 完成。
+
+**教训**：改样式没效果时，先核对 HTML 的 class 是否真的存在，再怀疑 CSS 优先级。
+
+---
+
 ## [2026-11-16] 上线部署 + 站点封面
 
 **模块**：`cover.svg`（新）、服务器 `/www/wwwroot/kbitai.com.cn/resources/AC_Tutorial/gh_guide/`
